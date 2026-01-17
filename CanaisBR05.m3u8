@@ -1,0 +1,397 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEBR" tvg-name="BR | A & E" tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLaDPBRGfqZc1KTG42UUFP6nRC451-aKG2Vte3qMJfyH6Fxdh9NBFb8oKPA_ftoYYK0RMG9xqg.png" group-title="BRAZIL",BR | A & E
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40700
+#EXTINF:-1 tvg-id="" tvg-name="BR | AXV" tvg-logo="http://ltv-reloaded.xyz:2095/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="BRAZIL",BR | AXV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40701
+#EXTINF:-1 tvg-id="" tvg-name="BR | BAND NEWS" tvg-logo="" group-title="BRAZIL",BR | BAND NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39677
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BR | BAND SPORTS" tvg-logo="" group-title="BRAZIL",BR | BAND SPORTS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39681
+#EXTINF:-1 tvg-id="" tvg-name="BR | CINEMAX" tvg-logo="http://ltv-reloaded.xyz:2095/images/tvlogos/cinemax.png" group-title="BRAZIL",BR | CINEMAX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40704
+#EXTINF:-1 tvg-id="" tvg-name="BR | CURTA!" tvg-logo="" group-title="BRAZIL",BR | CURTA!
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40705
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPN BRASIL" tvg-logo="" group-title="BRAZIL",BR | ESPN BRASIL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39682
+#EXTINF:-1 tvg-id="" tvg-name="BR | ESPORTE INTERATIVO" tvg-logo="" group-title="BRAZIL",BR | ESPORTE INTERATIVO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/47130
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX" tvg-logo="https://i.postimg.cc/sxRnDXkP/tri-angela-us-ru.png" group-title="BRAZIL",BR | FOX
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40706
+#EXTINF:-1 tvg-id="" tvg-name="BR | FOX SPORTS" tvg-logo="" group-title="BRAZIL",BR | FOX SPORTS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/46997
+#EXTINF:-1 tvg-id="FS2HDBR" tvg-name="BR | FOX SPORTS 2" tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLaDPBRGfj-wEasbwu8A3D-lEddy4PuisJb3mIKElKpL75l0VkWGRWftaCUYgtsv-rKWayTMoQ.png" group-title="BRAZIL",BR | FOX SPORTS 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/46998
+#EXTINF:-1 tvg-id="" tvg-name="BR | FUTURA" tvg-logo="" group-title="BRAZIL",BR | FUTURA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40707
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO BRASILIA" tvg-logo="" group-title="BRAZIL",BR | GLOBO BRASILIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40708
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO MINAS" tvg-logo="" group-title="BRAZIL",BR | GLOBO MINAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40697
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="BR | GLOBO NEWS" tvg-logo="" group-title="BRAZIL",BR | GLOBO NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39676
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO NORDESTE" tvg-logo="" group-title="BRAZIL",BR | GLOBO NORDESTE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39683
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO RJ" tvg-logo="" group-title="BRAZIL",BR | GLOBO RJ
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39674
+#EXTINF:-1 tvg-id="" tvg-name="BR | GLOBO SP" tvg-logo="" group-title="BRAZIL",BR | GLOBO SP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39675
+#EXTINF:-1 tvg-id="" tvg-name="BR | HBO" tvg-logo="" group-title="BRAZIL",BR | HBO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40709
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 1" tvg-logo="noimage.png" group-title="BRAZIL",BR | PREMIERE 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39694
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 2" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40691
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 3" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40692
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 4" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 4
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40693
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 5" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 5
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40694
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 6" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 6
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40695
+#EXTINF:-1 tvg-id="" tvg-name="BR | PREMIERE 7" tvg-logo="" group-title="BRAZIL",BR | PREMIERE 7
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40696
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD NEWS" tvg-logo="" group-title="BRAZIL",BR | RECORD NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39685
+#EXTINF:-1 tvg-id="" tvg-name="BR | RECORD SP" tvg-logo="" group-title="BRAZIL",BR | RECORD SP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40698
+#EXTINF:-1 tvg-id="" tvg-name="BR | REDE TV" tvg-logo="" group-title="BRAZIL",BR | REDE TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39686
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT" tvg-logo="http://mirror.streamhubtv.me:8080/images/YE9BI7F15D3_iLaDPBRGfi1gVYnZiae9WeE662aS16MPz77w701Uw3VdNHJrIKSgwg1-dSq3PbIVScrwuPmJaA.png" group-title="BRAZIL",BR | SBT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39687
+#EXTINF:-1 tvg-id="" tvg-name="BR | SBT NORDESTE" tvg-logo="" group-title="BRAZIL",BR | SBT NORDESTE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40699
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="BR | SBT RJ" tvg-logo="" group-title="BRAZIL",BR | SBT RJ
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40947
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 1" tvg-logo="" group-title="BRAZIL",BR | SPORTV 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39678
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 2" tvg-logo="" group-title="BRAZIL",BR | SPORTV 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39679
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORTV 3" tvg-logo="" group-title="BRAZIL",BR | SPORTV 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/39680
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE ACTION" tvg-logo="" group-title="BRAZIL",BR | TELECINE ACTION
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40780
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE CULT" tvg-logo="" group-title="BRAZIL",BR | TELECINE CULT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40779
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE FUN" tvg-logo="" group-title="BRAZIL",BR | TELECINE FUN
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40778
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE PIPOCA" tvg-logo="" group-title="BRAZIL",BR | TELECINE PIPOCA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40777
+#EXTINF:-1 tvg-id="" tvg-name="BR | TELECINE PREMIUM" tvg-logo="" group-title="BRAZIL",BR | TELECINE PREMIUM
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40776
+#EXTINF:-1 tvg-id="TCTCHHD" tvg-name="BR | TELECINE TOUCH" tvg-logo="" group-title="BRAZIL",BR | TELECINE TOUCH
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40775
+#EXTINF:-1 tvg-id="globo-sd" tvg-name="BR | GLOBO" tvg-logo="https://logo.iBRveditor.com/globo.png" group-title="PORTUGAL",BR | GLOBO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62980
+#EXTINF:-1 tvg-id="globo-now" tvg-name="BR | GLOBO NOW" tvg-logo="https://logo.iBRveditor.com/globonow.png" group-title="PORTUGAL",BR | GLOBO NOW
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62981
+#EXTINF:-1 tvg-id="HistoryChannel.BR" tvg-name="BR | HISTORIA" tvg-logo="https://www.cooBRel.ca/wp-content/uploads/2016/06/historia_126.jpg" group-title="PORTUGAL",BR | HISTORIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1541
+#EXTINF:-1 tvg-id="historia-sd" tvg-name="BR | HISTÓRIA" tvg-logo="https://logo.iBRveditor.com/historia.png" group-title="PORTUGAL",BR | HISTÓRIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62982
+#EXTINF:-1 tvg-id="hollywood.BR" tvg-name="BR | HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Chollywood.png" group-title="PORTUGAL",BR | HOLLYWOOD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1539
+#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-name="BR | ID INVESTIGATION DISCOVERY" tvg-logo="https://logo.iBRveditor.com/investigationdiscovery.png" group-title="PORTUGAL",BR | ID INVESTIGATION DISCOVERY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62986
+#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-name="BR | ID INVESTIGATION DISCOVERY (B)" tvg-logo="https://logo.iBRveditor.com/idinvestigationdiscovery.png" group-title="PORTUGAL",BR | ID INVESTIGATION DISCOVERY (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62987
+#EXTINF:-1 tvg-id="ID Investigation Discovery BR" tvg-name="BR | INVESTIGATION DISCOVERY" tvg-logo="https://1s7efb3dokct1y2e4q31coij-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/logo-blk-id@2x.png" group-title="PORTUGAL",BR | INVESTIGATION DISCOVERY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1538
+#EXTINF:-1 tvg-id="KombatSport.BR" tvg-name="BR | KOMBAT SPORT" tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="PORTUGAL",BR | KOMBAT SPORT
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1536
+#EXTINF:-1 tvg-id="kuriakos-tv" tvg-name="BR | KURIAKOS TV" tvg-logo="https://logo.iBRveditor.com/kuriakostv.png" group-title="PORTUGAL",BR | KURIAKOS TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62988
+#EXTINF:-1 tvg-id="MCMPop.BR" tvg-name="BR | MCM POP" tvg-logo="https://seeklogo.com/images/M/mcm-pop-logo-042DCB84A2-seeklogo.com.png" group-title="PORTUGAL",BR | MCM POP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1531
+#EXTINF:-1 tvg-id="mcm-pop" tvg-name="BR | MCM POP" tvg-logo="https://logo.iBRveditor.com/mcmpop.png" group-title="PORTUGAL",BR | MCM POP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62989
+#EXTINF:-1 tvg-id="" tvg-name="BR | MCM TOP" tvg-logo="https://seeklogo.com/images/M/mcm-top-logo-3649B48C16-seeklogo.com.png" group-title="PORTUGAL",BR | MCM TOP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1530
+#EXTINF:-1 tvg-id="mezzo.BR" tvg-name="BR | MEZZO" tvg-logo="http://triozadig.com/wp-content/uploads/2018/01/unnamed-e1517589268840.jpg" group-title="PORTUGAL",BR | MEZZO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1529
+#EXTINF:-1 tvg-id="motorvision" tvg-name="BR | MOTORVISION" tvg-logo="https://logo.iBRveditor.com/motorvision.png" group-title="PORTUGAL",BR | MOTORVISION
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62993
+#EXTINF:-1 tvg-id="Motorvision.BR" tvg-name="BR | MOTORVISION TV" tvg-logo="https://mountain.partners/media/1301/motorvisiontv.png" group-title="PORTUGAL",BR | MOTORVISION TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1528
+#EXTINF:-1 tvg-id="mtvportugal.BR" tvg-name="BR | MTV" tvg-logo="http://pluspng.com/img-png/mtv-logo-vector-png-mtv-logo-vector-download-280.png" group-title="PORTUGAL",BR | MTV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1525
+#EXTINF:-1 tvg-id="vh1" tvg-name="BR | MTV 00S" tvg-logo="https://logo.iBRveditor.com/mtv00s.png" group-title="PORTUGAL",BR | MTV 00S
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62994
+#EXTINF:-1 tvg-id="" tvg-name="BR | MTV DANCE" tvg-logo="https://media.info/i/lf/300/1508556331/1091.png" group-title="PORTUGAL",BR | MTV DANCE
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1527
+#EXTINF:-1 tvg-id="" tvg-name="BR | MTV ROCKS" tvg-logo="https://i.pinimg.com/originals/70/0e/2a/700e2a8795c959e2b8c24785129cba79.png" group-title="PORTUGAL",BR | MTV ROCKS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1524
+#EXTINF:-1 tvg-id="national-geographic-sd" tvg-name="BR | NAT GEO" tvg-logo="https://logo.iBRveditor.com/nationalgeographic.png" group-title="PORTUGAL",BR | NAT GEO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62996
+#EXTINF:-1 tvg-id="national-geographic-sd" tvg-name="BR | NAT GEO (B)" tvg-logo="https://logo.iBRveditor.com/nationalgeographic.png" group-title="PORTUGAL",BR | NAT GEO (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62997
+#EXTINF:-1 tvg-id="NatGeoWild.BR" tvg-name="BR | NAT GEO WILD" tvg-logo="https://sc.dish.com/shared/images/station-logos/natgw.png" group-title="PORTUGAL",BR | NAT GEO WILD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1521
+#EXTINF:-1 tvg-id="nat-geo-wild-sd" tvg-name="BR | NAT GEO WILD" tvg-logo="https://logo.iBRveditor.com/natgeowild.png" group-title="PORTUGAL",BR | NAT GEO WILD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62998
+#EXTINF:-1 tvg-id="nat-geo-wild-sd" tvg-name="BR | NAT GEO WILD (B)" tvg-logo="https://logo.iBRveditor.com/natgeowild.png" group-title="PORTUGAL",BR | NAT GEO WILD (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/62999
+#EXTINF:-1 tvg-id="nationalgeographic.BR" tvg-name="BR | NATIONAL GEOGRAPHIC" tvg-logo="" group-title="PORTUGAL",BR | NATIONAL GEOGRAPHIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1520
+#EXTINF:-1 tvg-id="nba-tv-sd" tvg-name="BR | NBA TV (B)" tvg-logo="https://logo.iBRveditor.com/nbatv.png" group-title="PORTUGAL",BR | NBA TV (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63001
+#EXTINF:-1 tvg-id="" tvg-name="BR | NEWS NOW" tvg-logo="https://www.newsnow.co.uk/images/nn-logo-inline.svg" group-title="PORTUGAL",BR | NEWS NOW
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/78311
+#EXTINF:-1 tvg-id="Nick Jr. BR" tvg-name="BR | NICK JR." tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="PORTUGAL",BR | NICK JR.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1519
+#EXTINF:-1 tvg-id="nick-jr" tvg-name="BR | NICK JR." tvg-logo="https://logo.iBRveditor.com/nickjr.png" group-title="PORTUGAL",BR | NICK JR.
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63003
+#EXTINF:-1 tvg-id="Nickelodeon.BR" tvg-name="BR | NICKELODEON" tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-sound-png-27.png" group-title="PORTUGAL",BR | NICKELODEON
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1518
+#EXTINF:-1 tvg-id="nickelodeon" tvg-name="BR | NICKELODEON" tvg-logo="https://logo.iBRveditor.com/nickelodeon.png" group-title="PORTUGAL",BR | NICKELODEON
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63004
+#EXTINF:-1 tvg-id="NOSStudios.BR" tvg-name="BR | NOS STUDIOS" tvg-logo="https://cdn.nos.BR/common/img/nos_opengraph.png" group-title="PORTUGAL",BR | NOS STUDIOS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1517
+#EXTINF:-1 tvg-id="odisseia.BR" tvg-name="BR | ODISSEIA" tvg-logo="http://fundamental2019.com.br/wp-content/uploads/2018/06/LOGO-ODISSEIA.png" group-title="PORTUGAL",BR | ODISSEIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1516
+#EXTINF:-1 tvg-id="odisseia-sd" tvg-name="BR | ODISSEIA" tvg-logo="https://logo.iBRveditor.com/odisseia.png" group-title="PORTUGAL",BR | ODISSEIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63006
+#EXTINF:-1 tvg-id="" tvg-name="BR | OBRO SIC" tvg-logo="https://i.postimg.cc/DZGcH3j0/oBRosic.png" group-title="PORTUGAL",BR | OBRO SIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63007
+#EXTINF:-1 tvg-id="PandaBiggs.BR" tvg-name="BR | PANDA BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/220px-Panda_Biggs_logo.png" group-title="PORTUGAL",BR | PANDA BIGGS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1515
+#EXTINF:-1 tvg-id="pfc.BR" tvg-name="BR | PFC" tvg-logo="https://www.nossagente.net/wp_new/wp-content/uploads/2013/08/PFC_LOGO_slogan2.png" group-title="PORTUGAL",BR | PFC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1514
+#EXTINF:-1 tvg-id="PortoCanal.BR" tvg-name="BR | PORTO CANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_porto_canal.png" group-title="PORTUGAL",BR | PORTO CANAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1512
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="BR | PORTO CANAL" tvg-logo="https://logo.iBRveditor.com/portocanal.png" group-title="PORTUGAL",BR | PORTO CANAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63009
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="BR | PORTO CANAL (B)" tvg-logo="https://logo.iBRveditor.com/portocanal.png" group-title="PORTUGAL",BR | PORTO CANAL (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63010
+#EXTINF:-1 tvg-id="Real Madrid TV BR" tvg-name="BR | REAL MADRID TV" tvg-logo="http://www.arabe-media.com/tv/img357.png" group-title="PORTUGAL",BR | REAL MADRID TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1511
+#EXTINF:-1 tvg-id="Record News" tvg-name="BR | RECORD NEWS" tvg-logo="https://i.postimg.cc/s2X7dCXy/Record-News-logo-2016.png" group-title="PORTUGAL",BR | RECORD NEWS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63011
+#EXTINF:-1 tvg-id="rtp1.BR" tvg-name="BR | RTP 1" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="PORTUGAL",BR | RTP 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24034
+#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="BR | RTP 1" tvg-logo="https://logo.iBRveditor.com/rtp1.png" group-title="PORTUGAL",BR | RTP 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63012
+#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="BR | RTP 1" tvg-logo="https://logo.iBRveditor.com/rtp1.png" group-title="PORTUGAL",BR | RTP 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63013
+#EXTINF:-1 tvg-id="rtp-1-sd" tvg-name="BR | RTP 1 (B)" tvg-logo="https://logo.iBRveditor.com/rtp1.png" group-title="PORTUGAL",BR | RTP 1 (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63014
+#EXTINF:-1 tvg-id="rtp1.BR" tvg-name="BR | RTP 1 (OPCAO 2)" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/rtp1.png" group-title="PORTUGAL",BR | RTP 1 (OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24035
+#EXTINF:-1 tvg-id="rtp2.BR" tvg-name="BR | RTP 2" tvg-logo="https://www.fpo.BR/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="PORTUGAL",BR | RTP 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24036
+#EXTINF:-1 tvg-id="rtp-2" tvg-name="BR | RTP 2" tvg-logo="https://logo.iBRveditor.com/rtp2.png" group-title="PORTUGAL",BR | RTP 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63016
+#EXTINF:-1 tvg-id="rtp-2" tvg-name="BR | RTP 2 (B)" tvg-logo="https://logo.iBRveditor.com/rtp2.png" group-title="PORTUGAL",BR | RTP 2 (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63017
+#EXTINF:-1 tvg-id="rtp2.BR" tvg-name="BR | RTP 2(OPCAO 2)" tvg-logo="https://www.fpo.BR/www/images/fpo/comunicados/gerais/2013/16579_443615305705283_333251319_n.png" group-title="PORTUGAL",BR | RTP 2(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/40689
+#EXTINF:-1 tvg-id="RTP3.BR" tvg-name="BR | RTP 3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",BR | RTP 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24037
+#EXTINF:-1 tvg-id="rtp-3-sd" tvg-name="BR | RTP 3" tvg-logo="https://logo.iBRveditor.com/rtp3.png" group-title="PORTUGAL",BR | RTP 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63018
+#EXTINF:-1 tvg-id="RTP3.BR" tvg-name="BR | RTP 3(OPCAO 2)" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" group-title="PORTUGAL",BR | RTP 3(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1503
+#EXTINF:-1 tvg-id="RTP Acores BR" tvg-name="BR | RTP ACORES" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",BR | RTP ACORES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1501
+#EXTINF:-1 tvg-id="RTPAfrica.BR" tvg-name="BR | RTP AFRICA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-%C3%81frica.png" group-title="PORTUGAL",BR | RTP AFRICA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1500
+#EXTINF:-1 tvg-id="" tvg-name="BR | RTP ARENA" tvg-logo="https://i.postimg.cc/ZnKhjHHf/rtpArena.png" group-title="PORTUGAL",BR | RTP ARENA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63021
+#EXTINF:-1 tvg-id="RTPInternacional.za" tvg-name="BR | RTP INTERNACIONAL" tvg-logo="https://sport-tv-guide.live/images/tv-station-rtBR-internacional-ca-1507.png" group-title="PORTUGAL",BR | RTP INTERNACIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24038
+#EXTINF:-1 tvg-id="" tvg-name="BR | RTP INTERNATIONAL" tvg-logo="https://i.postimg.cc/9QVFQVPv/RTP-Internacional-2016.png" group-title="PORTUGAL",BR | RTP INTERNATIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63022
+#EXTINF:-1 tvg-id="RTPMadeira.BR" tvg-name="BR | RTP MADEIRA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/04/RTP-Madeira.png" group-title="PORTUGAL",BR | RTP MADEIRA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1498
+#EXTINF:-1 tvg-id="rtp-madeira" tvg-name="BR | RTP MADEIRA" tvg-logo="https://logo.iBRveditor.com/rtpmadeira.png" group-title="PORTUGAL",BR | RTP MADEIRA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63023
+#EXTINF:-1 tvg-id="rtpmemoria.BR" tvg-name="BR | RTP MEMORIA" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",BR | RTP MEMORIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1497
+#EXTINF:-1 tvg-id="rtp-memoria" tvg-name="BR | RTP MEMÓRIA" tvg-logo="https://logo.iBRveditor.com/rtpmemoria.png" group-title="PORTUGAL",BR | RTP MEMÓRIA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63024
+#EXTINF:-1 tvg-id="rtp-africa" tvg-name="BR | RTP ÁFRICA" tvg-logo="https://logo.iBRveditor.com/rtpafrica1.png" group-title="PORTUGAL",BR | RTP ÁFRICA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63020
+#EXTINF:-1 tvg-id="sic.BR" tvg-name="BR | SIC" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="PORTUGAL",BR | SIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1486
+#EXTINF:-1 tvg-id="sic-sd" tvg-name="BR | SIC" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="PORTUGAL",BR | SIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63025
+#EXTINF:-1 tvg-id="sic-sd" tvg-name="BR | SIC" tvg-logo="https://i.postimg.cc/cCV9Y4xY/SIC-2018.png" group-title="PORTUGAL",BR | SIC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63026
+#EXTINF:-1 tvg-id="SicCaras.BR" tvg-name="BR | SIC CARAS" tvg-logo="http://www.meiosepublicidade.BR/wp-content/uploads/2013/10/SIC-Caras-logo.png" group-title="PORTUGAL",BR | SIC CARAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1493
+#EXTINF:-1 tvg-id="sic-caras" tvg-name="BR | SIC CARAS" tvg-logo="https://i.postimg.cc/SQ7HYcCN/SIC-Caras.png" group-title="PORTUGAL",BR | SIC CARAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63028
+#EXTINF:-1 tvg-id="" tvg-name="BR | SIC INTERNACIONAL" tvg-logo="https://i.postimg.cc/Hk2WJKBj/SIC-Internacional-2018.webp" group-title="PORTUGAL",BR | SIC INTERNACIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63029
+#EXTINF:-1 tvg-id="sic-k" tvg-name="BR | SIC K" tvg-logo="https://i.postimg.cc/qq3fWFgs/SIC-K.png" group-title="PORTUGAL",BR | SIC K
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63030
+#EXTINF:-1 tvg-id="SicK.BR" tvg-name="BR | SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="PORTUGAL",BR | SIC KIDS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1490
+#EXTINF:-1 tvg-id="sicmulher.BR" tvg-name="BR | SIC MULHER" tvg-logo="https://upload.wikimedia.org/wikipedia/BR/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="PORTUGAL",BR | SIC MULHER
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1489
+#EXTINF:-1 tvg-id="sic-mulher" tvg-name="BR | SIC MULHER" tvg-logo="https://i.postimg.cc/m2VxJ7g6/SIC-Mulher.png" group-title="PORTUGAL",BR | SIC MULHER
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63031
+#EXTINF:-1 tvg-id="sicnoticias.BR" tvg-name="BR | SIC NOTICIAS" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="PORTUGAL",BR | SIC NOTICIAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1487
+#EXTINF:-1 tvg-id="sicnoticias.BR" tvg-name="BR | SIC NOTICIAS(OPCAO 2)" tvg-logo="http://cintesis.eu/wp-content/uploads/2017/10/sic_n_peq.png" group-title="PORTUGAL",BR | SIC NOTICIAS(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1488
+#EXTINF:-1 tvg-id="sic-noticias" tvg-name="BR | SIC NOTÍCIAS" tvg-logo="https://logo.iBRveditor.com/sicnoticias.png" group-title="PORTUGAL",BR | SIC NOTÍCIAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63032
+#EXTINF:-1 tvg-id="sic-noticias" tvg-name="BR | SIC NOTÍCIAS" tvg-logo="https://logo.iBRveditor.com/sicnoticias.png" group-title="PORTUGAL",BR | SIC NOTÍCIAS
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63033
+#EXTINF:-1 tvg-id="sic-noticias" tvg-name="BR | SIC NOTÍCIAS (B)" tvg-logo="https://logo.iBRveditor.com/sicnoticias.png" group-title="PORTUGAL",BR | SIC NOTÍCIAS (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63034
+#EXTINF:-1 tvg-id="sicradical.BR" tvg-name="BR | SIC RADICAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",BR | SIC RADICAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1484
+#EXTINF:-1 tvg-id="sic-radical" tvg-name="BR | SIC RADICAL" tvg-logo="https://i.postimg.cc/sxdyfzk6/SIC-Radical-2011.png" group-title="PORTUGAL",BR | SIC RADICAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63035
+#EXTINF:-1 tvg-id="sic.BR" tvg-name="BR | SIC(OPCAO 2)" tvg-logo="https://4.bp.blogspot.com/-DtY41i7UI5s/W7dU1andqXI/AAAAAAAAVOA/y7hit8JMqgc0Y9UFETekeTuuc7YipuTiACLcBGAs/s1600/Novo+Logotipo+SIC.png" group-title="PORTUGAL",BR | SIC(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/26352
+#EXTINF:-1 tvg-id="" tvg-name="BR | SOBRENATURAL TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/sobrenatural-tv.png" group-title="PORTUGAL",BR | SOBRENATURAL TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1483
+#EXTINF:-1 tvg-id="sport-tv-mais-sd" tvg-name="BR | SPORT TV +" tvg-logo="https://i.postimg.cc/HxKdmpdX/Sport-TV-3.png" group-title="PORTUGAL",BR | SPORT TV +
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63038
+#EXTINF:-1 tvg-id="sporttv1.BR" tvg-name="BR | SPORT TV 1" tvg-logo="https://gulf365.co/content/uploads/2019/09/20/0b06788710.jpg" group-title="PORTUGAL",BR | SPORT TV 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24040
+#EXTINF:-1 tvg-id="sport-tv1-sd" tvg-name="BR | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="PORTUGAL",BR | SPORT TV 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63040
+#EXTINF:-1 tvg-id="sport-tv1-sd" tvg-name="BR | SPORT TV 1" tvg-logo="http://dl.dropboxusercontent.com/s/x2gd6cvkrdf1f0j/sporttv-1.png" group-title="PORTUGAL",BR | SPORT TV 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63041
+#EXTINF:-1 tvg-id="sporttv1.BR" tvg-name="BR | SPORT TV 1(OPCAO 2)" tvg-logo="https://sportguide.live/images/stations/a450.png" group-title="PORTUGAL",BR | SPORT TV 1(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1477
+#EXTINF:-1 tvg-id="sporttv2.BR" tvg-name="BR | SPORT TV 2" tvg-logo="https://encryBRed-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="PORTUGAL",BR | SPORT TV 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1471
+#EXTINF:-1 tvg-id="sport-tv2-sd" tvg-name="BR | SPORT TV 2" tvg-logo="http://dl.dropboxusercontent.com/s/td33rqzfv1fcsyn/sporttv-2.png" group-title="PORTUGAL",BR | SPORT TV 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63043
+#EXTINF:-1 tvg-id="sport-tv2-sd" tvg-name="BR | SPORT TV 2" tvg-logo="http://dl.dropboxusercontent.com/s/td33rqzfv1fcsyn/sporttv-2.png" group-title="PORTUGAL",BR | SPORT TV 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63044
+#EXTINF:-1 tvg-id="sporttv2.BR" tvg-name="BR | SPORT TV 2(OPCAO 2)" tvg-logo="https://encryBRed-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAJXM-VWcZB2Xo5QO1vKhFMABazcmx9PsC0BisQsu9iG3iW-d" group-title="PORTUGAL",BR | SPORT TV 2(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24041
+#EXTINF:-1 tvg-id="sporttv3.BR" tvg-name="BR | SPORT TV 3" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="PORTUGAL",BR | SPORT TV 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24042
+#EXTINF:-1 tvg-id="sporttv3.BR" tvg-name="BR | SPORT TV 3(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="PORTUGAL",BR | SPORT TV 3(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1469
+#EXTINF:-1 tvg-id="sporttv4.BR" tvg-name="BR | SPORT TV 4" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="PORTUGAL",BR | SPORT TV 4
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24043
+#EXTINF:-1 tvg-id="sport-tv4-sd" tvg-name="BR | SPORT TV 4" tvg-logo="http://dl.dropboxusercontent.com/s/qkhum1y9zupb57g/sporttv-4.png" group-title="PORTUGAL",BR | SPORT TV 4
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63049
+#EXTINF:-1 tvg-id="sporttv5.BR" tvg-name="BR | SPORT TV 4(OPCAO 2)" tvg-logo="https://2.bp.blogspot.com/-8iCvE3hryzY/WcfzD3DmjqI/AAAAAAAAEmA/nH61kBu8QS0adinlN8lPIDPjvacCuW8kACLcBGAs/s392/Sport-Tv-4.png" group-title="PORTUGAL",BR | SPORT TV 4(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1465
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORT TV 5" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="PORTUGAL",BR | SPORT TV 5
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1457
+#EXTINF:-1 tvg-id="sport-tv5-sd" tvg-name="BR | SPORT TV 5 (B)" tvg-logo="http://dl.dropboxusercontent.com/s/pc8dhom81qcnfo4/sporttv-5.png" group-title="PORTUGAL",BR | SPORT TV 5 (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63054
+#EXTINF:-1 tvg-id="sporttv5.BR" tvg-name="BR | SPORT TV 5(OPCAO 2)" tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="PORTUGAL",BR | SPORT TV 5(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1460
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORT TV 6" tvg-logo="" group-title="PORTUGAL",BR | SPORT TV 6
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/61039
+#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="BR | SPORT TV 6" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",BR | SPORT TV 6
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63055
+#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="BR | SPORT TV 6" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",BR | SPORT TV 6
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63056
+#EXTINF:-1 tvg-id="sport-tv6-sd" tvg-name="BR | SPORT TV 6 (B)" tvg-logo="https://i.postimg.cc/VNgkxQJW/Sport-TV-6-2.png" group-title="PORTUGAL",BR | SPORT TV 6 (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63057
+#EXTINF:-1 tvg-id="" tvg-name="BR | SPORT TV 7" tvg-logo="" group-title="PORTUGAL",BR | SPORT TV 7
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/78217
+#EXTINF:-1 tvg-id="SportTVplus.BR" tvg-name="BR | SPORT TV+" tvg-logo="http://www.nos.BR/particulares/televisao/canais/PublishingImages/destaques-hp/sporttv+/medium_sporttv+.jpg" group-title="PORTUGAL",BR | SPORT TV+
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1452
+#EXTINF:-1 tvg-id="SPORTINGTV.BR" tvg-name="BR | SPORTING TV" tvg-logo="http://visaodigital.sytes.net/picons/sportingtv.png" group-title="PORTUGAL",BR | SPORTING TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1481
+#EXTINF:-1 tvg-id="sporting-tv-sd" tvg-name="BR | SPORTING TV" tvg-logo="https://logo.iBRveditor.com/sportingtv.png" group-title="PORTUGAL",BR | SPORTING TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63058
+#EXTINF:-1 tvg-id="sporting-tv-sd" tvg-name="BR | SPORTING TV (B)" tvg-logo="https://logo.iBRveditor.com/sportingtv.png" group-title="PORTUGAL",BR | SPORTING TV (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63059
+#EXTINF:-1 tvg-id="SyFy.BR" tvg-name="BR | SYFY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/SYFY.png" group-title="PORTUGAL",BR | SYFY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1450
+#EXTINF:-1 tvg-id="syfy-sd" tvg-name="BR | SYFY" tvg-logo="https://logo.iBRveditor.com/syfy.png" group-title="PORTUGAL",BR | SYFY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63060
+#EXTINF:-1 tvg-id="" tvg-name="BR | TCV INTERNATIONAL" tvg-logo="https://3.bp.blogspot.com/-cHgUiuaWuGs/UdVZsMD419I/AAAAAAAAvl8/JtjVILWPbdM/s259/Cape+Verde+Television+DStv.jpg" group-title="PORTUGAL",BR | TCV INTERNATIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/76590
+#EXTINF:-1 tvg-id="TLC.BR" tvg-name="BR | TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Tlc.png" group-title="PORTUGAL",BR | TLC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1449
+#EXTINF:-1 tvg-id="tlc" tvg-name="BR | TLC" tvg-logo="https://logo.iBRveditor.com/tlc.png" group-title="PORTUGAL",BR | TLC
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63061
+#EXTINF:-1 tvg-id="Toros TV BR" tvg-name="BR | TOROS TV" tvg-logo="https://verliga1.net/wp-content/uploads/2017/07/toros_tv.png" group-title="PORTUGAL",BR | TOROS TV
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1448
+#EXTINF:-1 tvg-id="tpa.BR" tvg-name="BR | TPA INTERNACIONAL" tvg-logo="http://www.semba-c.com/site/uploads/images/20151123143736_0.PNG" group-title="PORTUGAL",BR | TPA INTERNACIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/60859
+#EXTINF:-1 tvg-id="trace-toca" tvg-name="BR | TRACE TOCA" tvg-logo="https://logo.iBRveditor.com/tracetoca.png" group-title="PORTUGAL",BR | TRACE TOCA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63062
+#EXTINF:-1 tvg-id="traceafrica.za" tvg-name="BR | TRACE URBAN" tvg-logo="https://pbs.twimg.com/profile_images/1101077726612676608/tS3DbFx0_400x400.png" group-title="PORTUGAL",BR | TRACE URBAN
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1447
+#EXTINF:-1 tvg-id="trace-urban" tvg-name="BR | TRACE URBAN" tvg-logo="https://logo.iBRveditor.com/traceurban.png" group-title="PORTUGAL",BR | TRACE URBAN
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63063
+#EXTINF:-1 tvg-id="TravelChannel.BR" tvg-name="BR | TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Travel_Channel_logo-cerulean_blue.png" group-title="PORTUGAL",BR | TRAVEL CHANNEL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1446
+#EXTINF:-1 tvg-id="travel-channel-sd" tvg-name="BR | TRAVEL CHANNEL" tvg-logo="https://logo.iBRveditor.com/travelchannel.png" group-title="PORTUGAL",BR | TRAVEL CHANNEL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63064
+#EXTINF:-1 tvg-id="GloboNow.BR" tvg-name="BR | TV GLOBO NOW" tvg-logo="https://pbs.twimg.com/profile_images/1549987240/globo_400x400.jpg" group-title="PORTUGAL",BR | TV GLOBO NOW
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1444
+#EXTINF:-1 tvg-id="tvrecord.BR" tvg-name="BR | TV RECORD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Record_2023_with_wordmark.png" group-title="PORTUGAL",BR | TV RECORD
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1441
+#EXTINF:-1 tvg-id="" tvg-name="BR | TV SERIES" tvg-logo="" group-title="PORTUGAL",BR | TV SERIES
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1440
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVCINE 1" tvg-logo="http://zap.cvmultimedia.cv/wp-content/uploads/2016/09/LOGOS-CANAIS-ZAP-160x160-tvc1.png" group-title="PORTUGAL",BR | TVCINE 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1438
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVCINE 2" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11597_logo_tv_cine_3.png" group-title="PORTUGAL",BR | TVCINE 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1436
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVCINE 3" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/11596_logo_tv_cine_4.png" group-title="PORTUGAL",BR | TVCINE 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1434
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVCINE 4" tvg-logo="http://jokerplanete.com/logos-portugal-tv/TVC4.png" group-title="PORTUGAL",BR | TVCINE 4
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1432
+#EXTINF:-1 tvg-id="tvcine-action" tvg-name="BR | TVCINE ACTION" tvg-logo="https://logo.iBRveditor.com/tvcineaction.png" group-title="PORTUGAL",BR | TVCINE ACTION
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63066
+#EXTINF:-1 tvg-id="tvcine-action" tvg-name="BR | TVCINE ACTION (B)" tvg-logo="https://logo.iBRveditor.com/tvcineaction.png" group-title="PORTUGAL",BR | TVCINE ACTION (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63067
+#EXTINF:-1 tvg-id="tvcine-edition" tvg-name="BR | TVCINE EDITION (B)" tvg-logo="https://logo.iBRveditor.com/tvcineedition.png" group-title="PORTUGAL",BR | TVCINE EDITION (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63069
+#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="BR | TVCINE EMOTION" tvg-logo="https://logo.iBRveditor.com/tvcineemotion.png" group-title="PORTUGAL",BR | TVCINE EMOTION
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63070
+#EXTINF:-1 tvg-id="tvcine-emotion" tvg-name="BR | TVCINE EMOTION (B)" tvg-logo="https://logo.iBRveditor.com/tvcineemotion.png" group-title="PORTUGAL",BR | TVCINE EMOTION (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63071
+#EXTINF:-1 tvg-id="tvcine-top" tvg-name="BR | TVCINE TOP" tvg-logo="https://logo.iBRveditor.com/tvcinetop.png" group-title="PORTUGAL",BR | TVCINE TOP
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63072
+#EXTINF:-1 tvg-id="tvcine-top" tvg-name="BR | TVCINE TOP (B)" tvg-logo="https://logo.iBRveditor.com/tvcinetop.png" group-title="PORTUGAL",BR | TVCINE TOP (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63073
+#EXTINF:-1 tvg-id="TVI.BR" tvg-name="BR | TVI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="PORTUGAL",BR | TVI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/9833
+#EXTINF:-1 tvg-id="tvi-sd" tvg-name="BR | TVI" tvg-logo="https://i.postimg.cc/05d00fVF/TVI.png" group-title="PORTUGAL",BR | TVI
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63074
+#EXTINF:-1 tvg-id="TVI24.BR" tvg-name="BR | TVI 24" tvg-logo="https://upload.wikimedia.org/wikipedia/BR/5/50/Tvi_24.png" group-title="PORTUGAL",BR | TVI 24
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24154
+#EXTINF:-1 tvg-id="TVI24.BR" tvg-name="BR | TVI 24(OPCAO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/BR/5/50/Tvi_24.png" group-title="PORTUGAL",BR | TVI 24(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1429
+#EXTINF:-1 tvg-id="TVIFiccao.BR" tvg-name="BR | TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/BR/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",BR | TVI FICCAO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1425
+#EXTINF:-1 tvg-id="tvi-ficcao" tvg-name="BR | TVI FICÇÃO" tvg-logo="https://i.postimg.cc/D0HvXs4g/TVI-Ficcao.png" group-title="PORTUGAL",BR | TVI FICÇÃO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63077
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI INTERNACIONAL" tvg-logo="https://i.postimg.cc/jj3scfVb/TVI-Internacional-2017.webp" group-title="PORTUGAL",BR | TVI INTERNACIONAL
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63078
+#EXTINF:-1 tvg-id="TVIReal.BR" tvg-name="BR | TVI REALITY" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",BR | TVI REALITY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1418
+#EXTINF:-1 tvg-id="tvi-reality-sd" tvg-name="BR | TVI REALITY" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63079
+#EXTINF:-1 tvg-id="tvi-reality-sd" tvg-name="BR | TVI REALITY (B)" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY (B)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63080
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY * MOSAICO" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY * MOSAICO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63081
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY CAMARA 1" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY CAMARA 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63082
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY CAMARA 2" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY CAMARA 2
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63083
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY CAMARA 3" tvg-logo="https://i.postimg.cc/Gh6t80kC/TVI-Reality-2017.png" group-title="PORTUGAL",BR | TVI REALITY CAMARA 3
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63084
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY CAMERA 1" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",BR | TVI REALITY CAMERA 1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1423
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY EXCLUSIVO" tvg-logo="https://i.postimg.cc/FHSgncBW/1024.png" group-title="PORTUGAL",BR | TVI REALITY EXCLUSIVO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63086
+#EXTINF:-1 tvg-id="" tvg-name="BR | TVI REALITY MOSAICO" tvg-logo="https://4.bp.blogspot.com/-VbC26yhRq7M/VwwWSb-YiNI/AAAAAAAABWg/GTmCsyGVIakJwYELApckOLxSiryRiqYfA/s1600/FOpfAgxT.png" group-title="PORTUGAL",BR | TVI REALITY MOSAICO
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1419
+#EXTINF:-1 tvg-id="TVI.BR" tvg-name="BR | TVI(OPCAO 2)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TVI_logo.png/revision/latest?cb=20100918105531" group-title="PORTUGAL",BR | TVI(OPCAO 2)
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/24153
+#EXTINF:-1 tvg-id="vh1.BR" tvg-name="BR | VH1" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_8hMLqSQn1wqY2bgV_i_wO7MtcfVxPKHVBAw=s900-c-k-c0xffffffff-no-rj-mo" group-title="PORTUGAL",BR | VH1
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1417
+#EXTINF:-1 tvg-id="zapvivahd.BR" tvg-name="BR | ZAP VIVA" tvg-logo="" group-title="PORTUGAL",BR | ZAP VIVA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/1416
+#EXTINF:-1 tvg-id="zap-viva" tvg-name="BR | ZAP VIVA" tvg-logo="https://logo.iBRveditor.com/zapviva.png" group-title="PORTUGAL",BR | ZAP VIVA
+http://op.web24.live:8080/recycle_n24/network24_selfrestream/63087
