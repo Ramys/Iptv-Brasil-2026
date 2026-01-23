@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-name="BBB Cam 01 FHD" tvg-logo="http://camelo.vip/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 FHD
 http://camelo.vip:80/bru777322/Online99999/238604.ts
 #EXTINF:-1 tvg-name="BBB Cam 01 SD" tvg-logo="http://camelo.vip/static/bbb/01.jpg" group-title="Canais | BBB",BBB Cam 01 SD
