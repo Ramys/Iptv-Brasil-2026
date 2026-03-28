@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BR: 13 MAX" tvg-logo="" group-title="Brazil",BR: 13 MAX
+http://media2.xyz:8080/live/Darrin/Paulding/120579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="http://fanc.tmsimg.com/assets/s77795_ll_h3_aa.png" group-title="Brazil",BR: A&E
+http://media2.xyz:8080/live/Darrin/Paulding/120580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ALL SPORTS" tvg-logo="" group-title="Brazil",BR: ALL SPORTS
+http://media2.xyz:8080/live/Darrin/Paulding/120581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="http://fanc.tmsimg.com/assets/s99628_ll_h3_aa.png" group-title="Brazil",BR: AMC
+http://media2.xyz:8080/live/Darrin/Paulding/120582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="http://fanc.tmsimg.com/assets/s102407_ll_h3_ab.png" group-title="Brazil",BR: ANIMAL PLANET
+http://media2.xyz:8080/live/Darrin/Paulding/120583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1" tvg-logo="http://fanc.tmsimg.com/assets/s103707_ll_h3_aa.png" group-title="Brazil",BR: ARTE 1
+http://media2.xyz:8080/live/Darrin/Paulding/120584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN" tvg-logo="http://fanc.tmsimg.com/assets/s75580_ll_h3_ab.png" group-title="Brazil",BR: AXN
+http://media2.xyz:8080/live/Darrin/Paulding/120585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsizBCu88mNDjzv5EshoxtyH7-30jNJ1dZErQcj12q9tw.png" group-title="Brazil",BR: BABY
+http://media2.xyz:8080/live/Darrin/Paulding/120586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="" group-title="Brazil",BR: BAND NEWS
+http://media2.xyz:8080/live/Darrin/Paulding/120587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports" tvg-logo="http://fanc.tmsimg.com/assets/s94563_ll_h3_ab.png" group-title="Brazil",BR: Band Sports
+http://media2.xyz:8080/live/Darrin/Paulding/120588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS" tvg-logo="http://fanc.tmsimg.com/assets/s94122_ll_h3_ab.png" group-title="Brazil",BR: BIS
+http://media2.xyz:8080/live/Darrin/Paulding/120589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG" tvg-logo="http://fanc.tmsimg.com/assets/s104741_ll_h3_aa.png" group-title="Brazil",BR: BOOMERANG
+http://media2.xyz:8080/live/Darrin/Paulding/120590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil" tvg-logo="http://fanc.tmsimg.com/assets/s94564_ll_h3_aa.png" group-title="Brazil",BR: Canal Brasil
+http://media2.xyz:8080/live/Darrin/Paulding/120591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Tv Aparecida" tvg-logo="" group-title="Brazil",BR: Canal Tv Aparecida
+http://media2.xyz:8080/live/Darrin/Paulding/120592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM 10" tvg-logo="" group-title="Brazil",BR: TCM 10
+http://media2.xyz:8080/live/Darrin/Paulding/120593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RuauIRM6wYA9-rCL3QO-lbgndnksb_akTsRMSuwQPSzw.png" group-title="Brazil",BR: CARTOON NETWORK
+http://media2.xyz:8080/live/Darrin/Paulding/120594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cartoonito" tvg-logo="" group-title="Brazil",BR: Cartoonito
+http://media2.xyz:8080/live/Darrin/Paulding/120595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CBN Español" tvg-logo="" group-title="Brazil",BR: CBN Español
+http://media2.xyz:8080/live/Darrin/Paulding/120596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX" tvg-logo="http://fanc.tmsimg.com/assets/s75583_ll_h3_ab.png" group-title="Brazil",BR: CINEMAX
+http://media2.xyz:8080/live/Darrin/Paulding/120597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoqKPiyUQ2s6r2geuNYrcC9yAjGiSuPy2U1exFyNs1N-g.png" group-title="Brazil",BR: CNN BRASIL
+http://media2.xyz:8080/live/Darrin/Paulding/120598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKxQ_sJNjifywj_6xAsI57I2oM5gVw-lbMoP5OuMgTkfw.png" group-title="Brazil",BR: COMBATE
+http://media2.xyz:8080/live/Darrin/Paulding/120599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL" tvg-logo="http://fanc.tmsimg.com/assets/s83200_ll_h3_ab.png" group-title="Brazil",BR: COMEDY CENTRAL
+http://media2.xyz:8080/live/Darrin/Paulding/120600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2" tvg-logo="" group-title="Brazil",BR: CONMEBOL 2
+http://media2.xyz:8080/live/Darrin/Paulding/120601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CULTURA" tvg-logo="http://fanc.tmsimg.com/assets/s98046_ll_h3_aa.png" group-title="Brazil",BR: CULTURA
+http://media2.xyz:8080/live/Darrin/Paulding/120602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA!" tvg-logo="http://fanc.tmsimg.com/assets/s105950_ll_h3_ab.png" group-title="Brazil",BR: CURTA!
+http://media2.xyz:8080/live/Darrin/Paulding/120603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN" tvg-logo="" group-title="Brazil",BR: DAZN
+http://media2.xyz:8080/live/Darrin/Paulding/120604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 2" tvg-logo="" group-title="Brazil",BR: DAZN 2
+http://media2.xyz:8080/live/Darrin/Paulding/120605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 3" tvg-logo="" group-title="Brazil",BR: DAZN 3
+http://media2.xyz:8080/live/Darrin/Paulding/120606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Rc5mzrdhPicPTx8EzgbTzgV6NXm_v7sJ0Ntk0-gQkXKQ.png" group-title="Brazil",BR: DISCOVERY CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH" tvg-logo="http://fanc.tmsimg.com/assets/s83208_ll_h3_ab.png" group-title="Brazil",BR: DISCOVERY HOME & HEALTH
+http://media2.xyz:8080/live/Darrin/Paulding/120608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY ID" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Rc5mzrdhPicPTx8EzgbTzgV6NXm_v7sJ0Ntk0-gQkXKQ.png" group-title="Brazil",BR: DISCOVERY ID
+http://media2.xyz:8080/live/Darrin/Paulding/120609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKGVFUFcpzJsbk69YviU7csgxsQh7BjZpR4CkRmJ0ZQEg.png" group-title="Brazil",BR: DISCOVERY KIDS
+http://media2.xyz:8080/live/Darrin/Paulding/120610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE" tvg-logo="http://fanc.tmsimg.com/assets/s107895_ll_h3_aa.png" group-title="Brazil",BR: DISCOVERY SCIENCE
+http://media2.xyz:8080/live/Darrin/Paulding/120611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER" tvg-logo="http://fanc.tmsimg.com/assets/s75835_ll_h3_ab.png" group-title="Brazil",BR: DISCOVERY THEATER
+http://media2.xyz:8080/live/Darrin/Paulding/120612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC" tvg-logo="" group-title="Brazil",BR: DISCOVERY TLC
+http://media2.xyz:8080/live/Darrin/Paulding/120613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO" tvg-logo="http://fanc.tmsimg.com/assets/s90874_ll_h3_ab.png" group-title="Brazil",BR: DISCOVERY TURBO
+http://media2.xyz:8080/live/Darrin/Paulding/120614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QfS9y6lVcTsQnF_-HH7Vslde02eCjj4rGqGl4Eqvudlw.png" group-title="Brazil",BR: DISCOVERY WORLD
+http://media2.xyz:8080/live/Darrin/Paulding/120615.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TzDr5CW1Bwmbi0XFSFClq81nnUVV7d0zHKCRfqXi_yAQ.png" group-title="Brazil",BR: DISNEY CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120616.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR" tvg-logo="" group-title="Brazil",BR: DISNEY JR
+http://media2.xyz:8080/live/Darrin/Paulding/120617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD" tvg-logo="http://fanc.tmsimg.com/assets/s101131_h3_aa.png" group-title="Brazil",BR: DISNEY XD
+http://media2.xyz:8080/live/Darrin/Paulding/120618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: E!" tvg-logo="http://fanc.tmsimg.com/assets/s102367_ll_h3_aa.png" group-title="Brazil",BR: E!
+http://media2.xyz:8080/live/Darrin/Paulding/120619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Ei Maxx Brasil" tvg-logo="" group-title="Brazil",BR: Ei Maxx Brasil
+http://media2.xyz:8080/live/Darrin/Paulding/120620.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo6hRmqjhoI74Txazrwqhjv5uu5YW71LCj7kslTzWcW7g.png" group-title="Brazil",BR: ESPN
+http://media2.xyz:8080/live/Darrin/Paulding/120621.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="http://fanc.tmsimg.com/assets/s75585_ll_h3_ab.png" group-title="Brazil",BR: ESPN 2
+http://media2.xyz:8080/live/Darrin/Paulding/120622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="" group-title="Brazil",BR: ESPN 3
+http://media2.xyz:8080/live/Darrin/Paulding/120623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4" tvg-logo="" group-title="Brazil",BR: ESPN 4
+http://media2.xyz:8080/live/Darrin/Paulding/120624.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra" tvg-logo="http://fanc.tmsimg.com/assets/s109973_ll_h3_ab.png" group-title="Brazil",BR: ESPN Extra
+http://media2.xyz:8080/live/Darrin/Paulding/120625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV" tvg-logo="http://fanc.tmsimg.com/assets/s110390_ll_h3_ad.png" group-title="Brazil",BR: Fish TV
+http://media2.xyz:8080/live/Darrin/Paulding/120626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s90905_ll_h3_aa.png" group-title="Brazil",BR: FOOD NETWORK
+http://media2.xyz:8080/live/Darrin/Paulding/120627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR LIFE (FOX LIFE)" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrXHNZyPySvinWww5ouNPfngBUSiUCjbUkvGgt38uX18A.png" group-title="Brazil",BR: STAR LIFE (FOX LIFE)
+http://media2.xyz:8080/live/Darrin/Paulding/120628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 1" tvg-logo="" group-title="Brazil",BR: FOX PREMIUM 1
+http://media2.xyz:8080/live/Darrin/Paulding/120629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX PREMIUM 2" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3you-ip3nKdfJnq1_Go69lNhl_6ombjzZfRfTUKEf2zUmQ.png" group-title="Brazil",BR: FOX PREMIUM 2
+http://media2.xyz:8080/live/Darrin/Paulding/120630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="http://fanc.tmsimg.com/assets/s86787_ll_h3_aa.png" group-title="Brazil",BR: FOX SPORTS 2
+http://media2.xyz:8080/live/Darrin/Paulding/120631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78QnK_DGcx63tOky8R7rxPskpxMoiJclp8-8GiV5w6w_Kw.png" group-title="Brazil",BR: Fox Sports
+http://media2.xyz:8080/live/Darrin/Paulding/120632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Futura" tvg-logo="http://fanc.tmsimg.com/assets/s103720_ll_h3_aa.png" group-title="Brazil",BR: Futura
+http://media2.xyz:8080/live/Darrin/Paulding/120633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX" tvg-logo="http://fanc.tmsimg.com/assets/s98922_ll_h3_aa.png" group-title="Brazil",BR: FX
+http://media2.xyz:8080/live/Darrin/Paulding/120634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhgbIZ11oi6Hxotssqd4WHtOGSFA3gdZxXhO1TS66wHYGQ.png" group-title="Brazil",BR: GLOBO
+http://media2.xyz:8080/live/Darrin/Paulding/120635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Anhanguera Goiania" tvg-logo="" group-title="Brazil",BR: Globo Anhanguera Goiania
+http://media2.xyz:8080/live/Darrin/Paulding/120636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA" tvg-logo="http://fanc.tmsimg.com/assets/s98744_ll_h3_ca.png" group-title="Brazil",BR: GLOBO BRASILIA
+http://media2.xyz:8080/live/Darrin/Paulding/120637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS" tvg-logo="" group-title="Brazil",BR: GLOBO EPTV CAMPINAS
+http://media2.xyz:8080/live/Darrin/Paulding/120638.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Ribeirao Preto" tvg-logo="" group-title="Brazil",BR: Globo EPTV Ribeirao Preto
+http://media2.xyz:8080/live/Darrin/Paulding/120639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EPTV Sul de Minas" tvg-logo="" group-title="Brazil",BR: Globo EPTV Sul de Minas
+http://media2.xyz:8080/live/Darrin/Paulding/120640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Inter PT" tvg-logo="" group-title="Brazil",BR: Globo Inter PT
+http://media2.xyz:8080/live/Darrin/Paulding/120641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Inter TV Grande Minas" tvg-logo="" group-title="Brazil",BR: Globo Inter TV Grande Minas
+http://media2.xyz:8080/live/Darrin/Paulding/120642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO INTERNACIONAL" tvg-logo="" group-title="Brazil",BR: GLOBO INTERNACIONAL
+http://media2.xyz:8080/live/Darrin/Paulding/120643.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo InterTV Alto Litoral" tvg-logo="" group-title="Brazil",BR: Globo InterTV Alto Litoral
+http://media2.xyz:8080/live/Darrin/Paulding/120644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo InterTV Serra Mar" tvg-logo="" group-title="Brazil",BR: Globo InterTV Serra Mar
+http://media2.xyz:8080/live/Darrin/Paulding/120645.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas" tvg-logo="" group-title="Brazil",BR: Globo Minas
+http://media2.xyz:8080/live/Darrin/Paulding/120646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS" tvg-logo="http://fanc.tmsimg.com/assets/s95744_ll_h3_aa.png" group-title="Brazil",BR: GLOBO NEWS
+http://media2.xyz:8080/live/Darrin/Paulding/120647.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE" tvg-logo="http://fanc.tmsimg.com/assets/s104176_ll_h3_ab.png" group-title="Brazil",BR: GLOBO NORDESTE
+http://media2.xyz:8080/live/Darrin/Paulding/120648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Galega Blumenau" tvg-logo="" group-title="Brazil",BR: TV Galega Blumenau
+http://media2.xyz:8080/live/Darrin/Paulding/120649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Centro Oeste" tvg-logo="" group-title="Brazil",BR: Globo NSC Centro Oeste
+http://media2.xyz:8080/live/Darrin/Paulding/120650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC CHAPECO" tvg-logo="" group-title="Brazil",BR: GLOBO NSC CHAPECO
+http://media2.xyz:8080/live/Darrin/Paulding/120651.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC CRICIUMA" tvg-logo="" group-title="Brazil",BR: GLOBO NSC CRICIUMA
+http://media2.xyz:8080/live/Darrin/Paulding/120652.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo NSC Florianopolis" tvg-logo="" group-title="Brazil",BR: Globo NSC Florianopolis
+http://media2.xyz:8080/live/Darrin/Paulding/120653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC JOINVILLE" tvg-logo="" group-title="Brazil",BR: GLOBO NSC JOINVILLE
+http://media2.xyz:8080/live/Darrin/Paulding/120654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS Porto Alegre" tvg-logo="" group-title="Brazil",BR: Globo RBS Porto Alegre
+http://media2.xyz:8080/live/Darrin/Paulding/120655.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV" tvg-logo="" group-title="Brazil",BR: Globo RBS TV
+http://media2.xyz:8080/live/Darrin/Paulding/120656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Pelotas" tvg-logo="" group-title="Brazil",BR: Globo RBS TV Pelotas
+http://media2.xyz:8080/live/Darrin/Paulding/120657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV POA" tvg-logo="" group-title="Brazil",BR: Globo RBS TV POA
+http://media2.xyz:8080/live/Darrin/Paulding/120658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RBS TV Santa Maria" tvg-logo="" group-title="Brazil",BR: Globo RBS TV Santa Maria
+http://media2.xyz:8080/live/Darrin/Paulding/120659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Recife" tvg-logo="" group-title="Brazil",BR: Globo Recife
+http://media2.xyz:8080/live/Darrin/Paulding/120660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rede Amazonica" tvg-logo="" group-title="Brazil",BR: Globo Rede Amazonica
+http://media2.xyz:8080/live/Darrin/Paulding/120661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RJ" tvg-logo="" group-title="Brazil",BR: Globo RJ
+http://media2.xyz:8080/live/Darrin/Paulding/120662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Curitiba" tvg-logo="" group-title="Brazil",BR: Globo RPC Curitiba
+http://media2.xyz:8080/live/Darrin/Paulding/120663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC Ponta Grossa" tvg-logo="" group-title="Brazil",BR: Globo RPC Ponta Grossa
+http://media2.xyz:8080/live/Darrin/Paulding/120664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo RPC TV Foz do Iguacu" tvg-logo="" group-title="Brazil",BR: Globo RPC TV Foz do Iguacu
+http://media2.xyz:8080/live/Darrin/Paulding/120665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo SP" tvg-logo="" group-title="Brazil",BR: Globo SP
+http://media2.xyz:8080/live/Darrin/Paulding/120666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP NBR" tvg-logo="" group-title="Brazil",BR: GLOBO SP NBR
+http://media2.xyz:8080/live/Darrin/Paulding/120667.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP TV TRIBUNA" tvg-logo="" group-title="Brazil",BR: GLOBO SP TV TRIBUNA
+http://media2.xyz:8080/live/Darrin/Paulding/120668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Belem" tvg-logo="" group-title="Brazil",BR: Globo TV Belem
+http://media2.xyz:8080/live/Darrin/Paulding/120669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Cabo Branco" tvg-logo="" group-title="Brazil",BR: Globo TV Cabo Branco
+http://media2.xyz:8080/live/Darrin/Paulding/120670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Diario" tvg-logo="" group-title="Brazil",BR: Globo TV Diario
+http://media2.xyz:8080/live/Darrin/Paulding/120671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta Sul ES" tvg-logo="" group-title="Brazil",BR: Globo TV Gazeta Sul ES
+http://media2.xyz:8080/live/Darrin/Paulding/120672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Gazeta VitÃ³ria" tvg-logo="" group-title="Brazil",BR: Globo TV Gazeta VitÃ³ria
+http://media2.xyz:8080/live/Darrin/Paulding/120673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Integracao Juiz de Fora" tvg-logo="" group-title="Brazil",BR: Globo TV Integracao Juiz de Fora
+http://media2.xyz:8080/live/Darrin/Paulding/120674.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV IntegraÃ§Ã£o Araxa" tvg-logo="" group-title="Brazil",BR: Globo TV IntegraÃ§Ã£o Araxa
+http://media2.xyz:8080/live/Darrin/Paulding/120675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Liberal BelÃ©m" tvg-logo="" group-title="Brazil",BR: Globo TV Liberal BelÃ©m
+http://media2.xyz:8080/live/Darrin/Paulding/120676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Mirante" tvg-logo="" group-title="Brazil",BR: Globo TV Mirante
+http://media2.xyz:8080/live/Darrin/Paulding/120677.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Morena" tvg-logo="" group-title="Brazil",BR: Globo TV Morena
+http://media2.xyz:8080/live/Darrin/Paulding/120678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Rio Sul" tvg-logo="" group-title="Brazil",BR: Globo TV Rio Sul
+http://media2.xyz:8080/live/Darrin/Paulding/120679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Sergipe" tvg-logo="" group-title="Brazil",BR: Globo TV Sergipe
+http://media2.xyz:8080/live/Darrin/Paulding/120680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Bauru" tvg-logo="" group-title="Brazil",BR: Globo TV Tem Bauru
+http://media2.xyz:8080/live/Darrin/Paulding/120681.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Sorocaba" tvg-logo="" group-title="Brazil",BR: Globo TV Tem Sorocaba
+http://media2.xyz:8080/live/Darrin/Paulding/120682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tribuna Santos" tvg-logo="" group-title="Brazil",BR: Globo TV Tribuna Santos
+http://media2.xyz:8080/live/Darrin/Paulding/120683.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Vanguarda SÃ£o JosÃ dos Campos" tvg-logo="" group-title="Brazil",BR: Globo TV Vanguarda SÃ£o JosÃ dos Campos
+http://media2.xyz:8080/live/Darrin/Paulding/120684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Verdes Mares Fortaleza" tvg-logo="" group-title="Brazil",BR: Globo TV Verdes Mares Fortaleza
+http://media2.xyz:8080/live/Darrin/Paulding/120685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globosat Full" tvg-logo="" group-title="Brazil",BR: Globosat Full
+http://media2.xyz:8080/live/Darrin/Paulding/120686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TJRdyE9ZIOJnlUZDw9Var6Sme6vuYKHhAwImXSjMQHLA.png" group-title="Brazil",BR: GLOOB
+http://media2.xyz:8080/live/Darrin/Paulding/120687.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gloobinho" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqWSUDfWpbd1SkkH7XPcRuDQ4tv7cAwwV6Jw7H3TxwIjA.png" group-title="Brazil",BR: Gloobinho
+http://media2.xyz:8080/live/Darrin/Paulding/120688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="" group-title="Brazil",BR: GNT
+http://media2.xyz:8080/live/Darrin/Paulding/120689.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: H2" tvg-logo="" group-title="Brazil",BR: H2
+http://media2.xyz:8080/live/Darrin/Paulding/120690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO" tvg-logo="" group-title="Brazil",BR: HBO
+http://media2.xyz:8080/live/Darrin/Paulding/120691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2" tvg-logo="" group-title="Brazil",BR: HBO 2
+http://media2.xyz:8080/live/Darrin/Paulding/120692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Extreme" tvg-logo="" group-title="Brazil",BR: HBO Extreme
+http://media2.xyz:8080/live/Darrin/Paulding/120693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumtyC7yZQoiBEsvzN3M4HLHsg6bhMAY71LSEijuvkjDeyA.png" group-title="Brazil",BR: HBO FAMILY
+http://media2.xyz:8080/live/Darrin/Paulding/120694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Mundi" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2IPJinOlJVnENfBFlS2f8OESQXd36GQ7iRwGgy7iQ71JEwde38_rsignhDkusNoDyQ.png" group-title="Brazil",BR: HBO Mundi
+http://media2.xyz:8080/live/Darrin/Paulding/120695.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrUius15_BgTZ5WS7Et2-M28G_oq8UIFnHlfMEiuJ4t3g.png" group-title="Brazil",BR: HBO PLUS
+http://media2.xyz:8080/live/Darrin/Paulding/120696.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Pop" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78R36XWYXWGQns6z0sVfBDkKeP3iY1rN1dvUZGi3b6_Wog.png" group-title="Brazil",BR: HBO Pop
+http://media2.xyz:8080/live/Darrin/Paulding/120697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums94P2iM7UT072_tFUbSugtW_4acxJStjYS6w3yiu158Q.png" group-title="Brazil",BR: HBO SIGNATURE
+http://media2.xyz:8080/live/Darrin/Paulding/120698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO XTREME" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyAXiZsFqSv4VrHkm_OzGuOolSjY4ETiwXAKG_mxymIHNw.png" group-title="Brazil",BR: HBO XTREME
+http://media2.xyz:8080/live/Darrin/Paulding/120699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrNQo0Wu_zIUR40AOjITRMwgd6Qpv2UKlAZuEJVc9Na0Q.png" group-title="Brazil",BR: HGTV
+http://media2.xyz:8080/live/Darrin/Paulding/120700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL" tvg-logo="" group-title="Brazil",BR: HISTORY CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: JOVEM PAN NEWS" tvg-logo="" group-title="Brazil",BR: JOVEM PAN NEWS
+http://media2.xyz:8080/live/Darrin/Paulding/120702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLndcvXQat1dJuR9nb_tbTNCnZupqNsP3RGfaKHhjnSug.png" group-title="Brazil",BR: LIFETIME
+http://media2.xyz:8080/live/Darrin/Paulding/120703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGA PIX" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SICggQDNxN-EpyvoWkgN3wj2BxE7-uzgG2fv6W-SBN-g.png" group-title="Brazil",BR: MEGA PIX
+http://media2.xyz:8080/live/Darrin/Paulding/120704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qkv-7HlRdCgI2Kwwd7k9Tqys_FyTdz5wGp5jzcnuJcNg.png" group-title="Brazil",BR: MTV
+http://media2.xyz:8080/live/Darrin/Paulding/120705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTI SHOW" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RN7uYZs_LpOZqoqGQBi5ZRMDwhd4GBYUjO_X9QFRuTMA.png" group-title="Brazil",BR: MULTI SHOW
+http://media2.xyz:8080/live/Darrin/Paulding/120706.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumuzYQSrKDj8wf6Z7AIhS2vE330LWpuD4HApp_j7JiEDWg.png" group-title="Brazil",BR: Music Box Brazil
+http://media2.xyz:8080/live/Darrin/Paulding/120707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO KIDS" tvg-logo="https://asiagrandiptv.us/logo/natgeokids.png" group-title="Brazil",BR: NAT GEO KIDS
+http://media2.xyz:8080/live/Darrin/Paulding/120708.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO WILD" tvg-logo="" group-title="Brazil",BR: NAT GEO WILD
+http://media2.xyz:8080/live/Darrin/Paulding/120709.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NAT GEO" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums_-fkkhbLP6THI49y2dSTcdang8NMOZZZcYNvZnLCZQw.png" group-title="Brazil",BR: NAT GEO
+http://media2.xyz:8080/live/Darrin/Paulding/120710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON" tvg-logo="" group-title="Brazil",BR: NICKELODEON
+http://media2.xyz:8080/live/Darrin/Paulding/120711.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVA ERA TV" tvg-logo="" group-title="Brazil",BR: NOVA ERA TV
+http://media2.xyz:8080/live/Darrin/Paulding/120712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO" tvg-logo="" group-title="Brazil",BR: NOVO TEMPO
+http://media2.xyz:8080/live/Darrin/Paulding/120713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumvPxne6s8u-idTICPIyYkAIign9niJGEOna9wyVwBgdQA.png" group-title="Brazil",BR: OFF
+http://media2.xyz:8080/live/Darrin/Paulding/120714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumsUWGJUuemGkTCyDt5YNFdoJCWjrcPm2c6nZix0EF072w.png" group-title="Brazil",BR: PARAMOUNT CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 1" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp8ZWC2gdt72Y53OaYgUhQ_nJTjLnT7LkFykVqjGJ2YNg.png" group-title="Brazil",BR: PREMIERE 1
+http://media2.xyz:8080/live/Darrin/Paulding/120716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yovCWcHTtVlnmBgi73W3vNrNLPdop8kFSqSDXCXbhMCVg.png" group-title="Brazil",BR: PREMIERE 2
+http://media2.xyz:8080/live/Darrin/Paulding/120717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yqhD96mzCHwwuDgnYXb7W0Wmn9188NN6VPJFF8h2pef9w.png" group-title="Brazil",BR: PREMIERE 3
+http://media2.xyz:8080/live/Darrin/Paulding/120718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4" tvg-logo="" group-title="Brazil",BR: PREMIERE 4
+http://media2.xyz:8080/live/Darrin/Paulding/120719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="" group-title="Brazil",BR: PREMIERE 5
+http://media2.xyz:8080/live/Darrin/Paulding/120720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypkV6vUdeuYfTJTTrvl7jcvmLUFpzn-B350LsZzXVudsw.png" group-title="Brazil",BR: PREMIERE 7
+http://media2.xyz:8080/live/Darrin/Paulding/120721.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 8" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrHBsGRZJVZsG6ihsuR-cpdWVMVgCaNGH_myv-KAyl9rg.png" group-title="Brazil",BR: PREMIERE 8
+http://media2.xyz:8080/live/Darrin/Paulding/120722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumt7XIuhJ0uQ_6nrxRmgQdoCluN9ikpPprn9OQkG4Dbzzw.png" group-title="Brazil",BR: PREMIERE CLUBES
+http://media2.xyz:8080/live/Darrin/Paulding/120723.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RA TIM BUM" tvg-logo="" group-title="Brazil",BR: RA TIM BUM
+http://media2.xyz:8080/live/Darrin/Paulding/120724.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qm_WxvU5l5L1CQHJ17RmDI1M8Bry08JrYi3IoH-iZqJg.png" group-title="Brazil",BR: RECORD
+http://media2.xyz:8080/live/Darrin/Paulding/120725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_Zg_XA_pOlqZhg_XEWzwDbXEV7109ARRwmAzz01UO811VA.png" group-title="Brazil",BR: RECORD NEWS
+http://media2.xyz:8080/live/Darrin/Paulding/120726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypmGPEfbuWufXOg6REJouU3XEmNjotH8LOJDvhG9_bIHw.png" group-title="Brazil",BR: RECORD RJ
+http://media2.xyz:8080/live/Darrin/Paulding/120727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record RS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RWj0VcS2ON0DfbVCz7TAX1emEeFkvYsGc5Lq5_zqGc7Q.png" group-title="Brazil",BR: Record RS
+http://media2.xyz:8080/live/Darrin/Paulding/120728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record SP" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoOw9GJs8x3GpMu7nCFgC2ttsSPI5fZu4rSCFDvn1hd2A.png" group-title="Brazil",BR: Record SP
+http://media2.xyz:8080/live/Darrin/Paulding/120729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RedBull TV" tvg-logo="" group-title="Brazil",BR: RedBull TV
+http://media2.xyz:8080/live/Darrin/Paulding/120730.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yo4eBJQS-hr7eTL24lDOlnJcp2NmoX-6z2d-sBaYrk5hQ.png" group-title="Brazil",BR: Rede Gospel
+http://media2.xyz:8080/live/Darrin/Paulding/120731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Mão Amiga" tvg-logo="" group-title="Brazil",BR: Rede Mão Amiga
+http://media2.xyz:8080/live/Darrin/Paulding/120732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="Brazil",BR: REDE TV
+http://media2.xyz:8080/live/Darrin/Paulding/120733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE VIDA" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2P5cikx_X-5NLuSijpV3_ZgFFP-6RrztbCZtHs1aoY1EAFD7L0tx374md4YQpvKnlQ.png" group-title="Brazil",BR: REDE VIDA
+http://media2.xyz:8080/live/Darrin/Paulding/120734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RPC TV CURITIBA" tvg-logo="" group-title="Brazil",BR: RPC TV CURITIBA
+http://media2.xyz:8080/live/Darrin/Paulding/120735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RTL-TVI" tvg-logo="" group-title="Brazil",BR: RTL-TVI
+http://media2.xyz:8080/live/Darrin/Paulding/120736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrYi_-kWYPl1Kzd-innRahu85R4QuoVsv4vQRur7iFZVA.png" group-title="Brazil",BR: SBT
+http://media2.xyz:8080/live/Darrin/Paulding/120737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sbt Cidade Verde" tvg-logo="" group-title="Brazil",BR: Sbt Cidade Verde
+http://media2.xyz:8080/live/Darrin/Paulding/120738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT NORDESTE" tvg-logo="" group-title="Brazil",BR: SBT NORDESTE
+http://media2.xyz:8080/live/Darrin/Paulding/120739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuums2pUfIfIEHw9UdDrTZ25Uuarx_bv7saV03FQyeczb0DA.png" group-title="Brazil",BR: SBT RJ
+http://media2.xyz:8080/live/Darrin/Paulding/120740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78SXCbgAhmBzUIvf4dcPcXShSaVhxznVd0TiqB2q4eB5iA.png" group-title="Brazil",BR: SONY
+http://media2.xyz:8080/live/Darrin/Paulding/120741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yprT2_BMEJPNh0Sr1LxFhBDSk5iBj6zX0dtwo6c3wnH7Q.png" group-title="Brazil",BR: SPACE
+http://media2.xyz:8080/live/Darrin/Paulding/120742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1" tvg-logo="" group-title="Brazil",BR: SPORTV 1
+http://media2.xyz:8080/live/Darrin/Paulding/120743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2  [Live During Events Only]" tvg-logo="" group-title="Brazil",BR: SPORTV 2  [Live During Events Only]
+http://media2.xyz:8080/live/Darrin/Paulding/120744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="" group-title="Brazil",BR: SPORTV 3
+http://media2.xyz:8080/live/Darrin/Paulding/120745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL" tvg-logo="" group-title="Brazil",BR: STAR CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrPuBh03Xfdb48Xzv964VAV4vDYqHarq1GhHWvHlwxr-g.png" group-title="Brazil",BR: STUDIO UNIVERSAL
+http://media2.xyz:8080/live/Darrin/Paulding/120747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypoY4nmktG56WE3SARSy8i57m0s8PVnhEd-_V0WfUtfEA.png" group-title="Brazil",BR: SYFY
+http://media2.xyz:8080/live/Darrin/Paulding/120748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwIwogUo4Rhe963iwKrSTdx5kZdCt3d3BtP2KHHFkow3MA.png" group-title="Brazil",BR: TBS
+http://media2.xyz:8080/live/Darrin/Paulding/120749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2GwUee_HeV47TzX8gNpnfyB6-amoo_bB94PIAm3fod98NzlzFkX1QADSJgFB7DQyVQ.png" group-title="Brazil",BR: TCM
+http://media2.xyz:8080/live/Darrin/Paulding/120750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TSeFUilfmEfsSD_zydqnVSDvgKAfVBqIQA3wbv0GSGHA.png" group-title="Brazil",BR: TELECINE ACTION
+http://media2.xyz:8080/live/Darrin/Paulding/120751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELE CINE CULT" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwLAoJXyfD4GGhda6eLySSYBVjWVs2N2--ruckU0cwd-Ew.png" group-title="Brazil",BR: TELE CINE CULT
+http://media2.xyz:8080/live/Darrin/Paulding/120752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78RlEO8BhxRQDLJJDaTktIMkQ1UShC1Ydmw0-orh90t7AA.png" group-title="Brazil",BR: TELECINE FUN
+http://media2.xyz:8080/live/Darrin/Paulding/120753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78TN7GVaFf54dm1KD00HZvn2hymV0nCuFPs_zRDQRMAX5g.png" group-title="Brazil",BR: TELECINE PIPOCA
+http://media2.xyz:8080/live/Darrin/Paulding/120754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PncQnjvX0UIbf-mXiFDYhjZeyMvH3JEHsmfXc5U6ICSMphbl2Ysnz8buYSOZy4oVw.png" group-title="Brazil",BR: TELECINE PREMIUM
+http://media2.xyz:8080/live/Darrin/Paulding/120755.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78T56-tVc-7qhPa0XS5KkgEdS0Usx8z_ErvmhcY5bHhVqA.png" group-title="Brazil",BR: TELECINE TOUCH
+http://media2.xyz:8080/live/Darrin/Paulding/120756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TerraViva" tvg-logo="" group-title="Brazil",BR: TerraViva
+http://media2.xyz:8080/live/Darrin/Paulding/120757.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yoaPcbrEhaPi6UqWX-HZUxt6gWnxWcN2r0qT1-yPR-mvw.png" group-title="Brazil",BR: TNT
+http://media2.xyz:8080/live/Darrin/Paulding/120758.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypRXDGw-RlHCJZLGiOlu7hD6zEam3ylgniQX623EUIONA.png" group-title="Brazil",BR: TNT SERIES
+http://media2.xyz:8080/live/Darrin/Paulding/120759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT Sports" tvg-logo="" group-title="Brazil",BR: TNT Sports
+http://media2.xyz:8080/live/Darrin/Paulding/120760.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-name="BR: TNT SPORTS 2" tvg-logo="" group-title="Brazil",BR: TNT SPORTS 2
+http://media2.xyz:8080/live/Darrin/Paulding/120761.m3u8
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-name="BR: TNT SPORTS 3" tvg-logo="" group-title="Brazil",BR: TNT SPORTS 3
+http://media2.xyz:8080/live/Darrin/Paulding/120762.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2PBRuLsddRY96gtDGyMjRwKEjcvbIPe2-JRoIDm1da60JTF5jquhKvEubTM9ktzRAA.png" group-title="Brazil",BR: TOONCAST
+http://media2.xyz:8080/live/Darrin/Paulding/120763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TRAVEL CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrlOY5kyt7y1LRdgkBMh1daW0qKnDXKqPVbrsi4eoeZOg.png" group-title="Brazil",BR: TRAVEL CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tru TV" tvg-logo="" group-title="Brazil",BR: Tru TV
+http://media2.xyz:8080/live/Darrin/Paulding/120765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Aparecida" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypqP8Vhec4La9s2QeaJ5CTAf9kieOZpAsrPLuWW_MckEQ.png" group-title="Brazil",BR: TV Aparecida
+http://media2.xyz:8080/live/Darrin/Paulding/120766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2I7gRHQqlt2urJ_cA-odHswY_yMdT8AWvzFJRhDVaA0azI-n9hlv9PrXVtOgjV3Trw.png" group-title="Brazil",BR: TV BRASIL
+http://media2.xyz:8080/live/Darrin/Paulding/120767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Carioca" tvg-logo="" group-title="Brazil",BR: TV Carioca
+http://media2.xyz:8080/live/Darrin/Paulding/120768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cultura PA" tvg-logo="" group-title="Brazil",BR: TV Cultura PA
+http://media2.xyz:8080/live/Darrin/Paulding/120769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CÃMARA" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qrnik4JKed3RNU4H-J59O_aKpXkwaAODla5bBvSZiTzQ.png" group-title="Brazil",BR: TV CÃMARA
+http://media2.xyz:8080/live/Darrin/Paulding/120770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Destak" tvg-logo="" group-title="Brazil",BR: TV Destak
+http://media2.xyz:8080/live/Darrin/Paulding/120771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Educativa de Porto Alegre" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypIyPlL_KuVudCUr0d1k--F6osKQlEIAqqG1loh9lq4zg.png" group-title="Brazil",BR: TV Educativa de Porto Alegre
+http://media2.xyz:8080/live/Darrin/Paulding/120772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV EVANGELIZAR" tvg-logo="" group-title="Brazil",BR: TV EVANGELIZAR
+http://media2.xyz:8080/live/Darrin/Paulding/120773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Gazeta" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3ypWBnt3FwtImSNQA-Ma56pSpdJAB7Bw8DGpJ-H_GJ4SWQ.png" group-title="Brazil",BR: TV Gazeta
+http://media2.xyz:8080/live/Darrin/Paulding/120774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Maná Moçambique" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrEimqXNFh4uAtF7os6O7Cw31g18TDkxnI-kLXh99hBow.png" group-title="Brazil",BR: TV Maná Moçambique
+http://media2.xyz:8080/live/Darrin/Paulding/120775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV PAI ETERNO" tvg-logo="" group-title="Brazil",BR: TV PAI ETERNO
+http://media2.xyz:8080/live/Darrin/Paulding/120776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV PARANA TURISMO" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78S83nCarzw6U6n4HR_wLtghCrl5y6mGJHzy5q1gGvws1g.png" group-title="Brazil",BR: TV PARANA TURISMO
+http://media2.xyz:8080/live/Darrin/Paulding/120777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Ra Tim Bum" tvg-logo="" group-title="Brazil",BR: TV Ra Tim Bum
+http://media2.xyz:8080/live/Darrin/Paulding/120778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV SOL COMUNIDADE" tvg-logo="" group-title="Brazil",BR: TV SOL COMUNIDADE
+http://media2.xyz:8080/live/Darrin/Paulding/120779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Sol Comunidade" tvg-logo="" group-title="Brazil",BR: TV Sol Comunidade
+http://media2.xyz:8080/live/Darrin/Paulding/120780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVN Brasil" tvg-logo="" group-title="Brazil",BR: TVN Brasil
+http://media2.xyz:8080/live/Darrin/Paulding/120781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL" tvg-logo="" group-title="Brazil",BR: UNIVERSAL CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Cultura PA" tvg-logo="" group-title="Brazil",BR: TV Cultura PA
+http://media2.xyz:8080/live/Darrin/Paulding/120783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV 00S" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrVSW0rJHbINntMdxukVyAQtbrMzxtQDYltZZJHZDM7XA.png" group-title="Brazil",BR: MTV 00S
+http://media2.xyz:8080/live/Darrin/Paulding/120784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2NsZDpbr56w8hOM7fSmuumtGTPZ-bG51xZNYd1DG2-D_7Qsy8onRDiPYKF97BpNv0Q.png" group-title="Brazil",BR: VIVA
+http://media2.xyz:8080/live/Darrin/Paulding/120785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrIRUzMt92eOT9XEeS0KfwXTohEhIg0Cbv52OXZo8HFNw.png" group-title="Brazil",BR: WARNER CHANNEL
+http://media2.xyz:8080/live/Darrin/Paulding/120786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp7t3WvonXGB3XJNk10Fif_7cYSVNE51oP9QHkQ-UUcyQ.png" group-title="Brazil",BR: WOOHOO
+http://media2.xyz:8080/live/Darrin/Paulding/120787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Zoomoo" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp233OJirPjsQt4btJOZ4y084Kx4Yx_tiOlK3JspXQbhQ.png" group-title="Brazil",BR: Zoomoo
+http://media2.xyz:8080/live/Darrin/Paulding/120788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Amazon Sat" tvg-logo="" group-title="Brazil",BR: Amazon Sat
+http://media2.xyz:8080/live/Darrin/Paulding/120789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal do Criador" tvg-logo="" group-title="Brazil",BR: Canal do Criador
+http://media2.xyz:8080/live/Darrin/Paulding/120790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Demais TV" tvg-logo="" group-title="Brazil",BR: Demais TV
+http://media2.xyz:8080/live/Darrin/Paulding/120791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fonte TV" tvg-logo="" group-title="Brazil",BR: Fonte TV
+http://media2.xyz:8080/live/Darrin/Paulding/120792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Kuriakos Kids" tvg-logo="" group-title="Brazil",BR: Kuriakos Kids
+http://media2.xyz:8080/live/Darrin/Paulding/120793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: NDTV Criciuma" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78ReiE4KhOFIZZGcCGM34k11gsmFhOVocnnKsJzczXrHsQ.png" group-title="Brazil",BR: NDTV Criciuma
+http://media2.xyz:8080/live/Darrin/Paulding/120794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Play TV" tvg-logo="" group-title="Brazil",BR: Play TV
+http://media2.xyz:8080/live/Darrin/Paulding/120795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Plena TV" tvg-logo="" group-title="Brazil",BR: Plena TV
+http://media2.xyz:8080/live/Darrin/Paulding/120796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RBATV" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yrrDJaH2bIsH9BFMY8WYvnpdaJJ9OWh3Q5uBct313MTWg.png" group-title="Brazil",BR: RBATV
+http://media2.xyz:8080/live/Darrin/Paulding/120797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tastemade" tvg-logo="" group-title="Brazil",BR: Tastemade
+http://media2.xyz:8080/live/Darrin/Paulding/120798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Baby TV" tvg-logo="" group-title="Brazil",BR: Baby TV
+http://media2.xyz:8080/live/Darrin/Paulding/120799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band" tvg-logo="" group-title="Brazil",BR: Band
+http://media2.xyz:8080/live/Darrin/Paulding/120800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas" tvg-logo="" group-title="Brazil",BR: Band Campinas
+http://media2.xyz:8080/live/Darrin/Paulding/120801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: CURTA" tvg-logo="" group-title="Brazil",BR: CURTA
+http://media2.xyz:8080/live/Darrin/Paulding/120802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Sony" tvg-logo="" group-title="Brazil",BR: Canal Sony
+http://media2.xyz:8080/live/Darrin/Paulding/120803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine SKY 06+" tvg-logo="" group-title="Brazil",BR: Cine SKY 06+
+http://media2.xyz:8080/live/Darrin/Paulding/120804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Curta" tvg-logo="" group-title="Brazil",BR: Curta
+http://media2.xyz:8080/live/Darrin/Paulding/120805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CIVILIZATION" tvg-logo="" group-title="Brazil",BR: DISCOVERY CIVILIZATION
+http://media2.xyz:8080/live/Darrin/Paulding/120806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY H&H" tvg-logo="" group-title="Brazil",BR: DISCOVERY H&H
+http://media2.xyz:8080/live/Darrin/Paulding/120807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JUNIOR" tvg-logo="" group-title="Brazil",BR: DISNEY JUNIOR
+http://media2.xyz:8080/live/Darrin/Paulding/120808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery H&H" tvg-logo="" group-title="Brazil",BR: Discovery H&H
+http://media2.xyz:8080/live/Darrin/Paulding/120809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX" tvg-logo="" group-title="Brazil",BR: FOX
+http://media2.xyz:8080/live/Darrin/Paulding/120810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX LIFE" tvg-logo="" group-title="Brazil",BR: FOX LIFE
+http://media2.xyz:8080/live/Darrin/Paulding/120811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RIO" tvg-logo="" group-title="Brazil",BR: GLOBO RIO
+http://media2.xyz:8080/live/Darrin/Paulding/120812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP - NBR" tvg-logo="" group-title="Brazil",BR: GLOBO SP - NBR
+http://media2.xyz:8080/live/Darrin/Paulding/120813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Amazonas" tvg-logo="" group-title="Brazil",BR: Globo Amazonas
+http://media2.xyz:8080/live/Darrin/Paulding/120814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo CENTRO AMERICA CUIABA" tvg-logo="" group-title="Brazil",BR: Globo CENTRO AMERICA CUIABA
+http://media2.xyz:8080/live/Darrin/Paulding/120815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Centro AmÃ©rica" tvg-logo="" group-title="Brazil",BR: Globo Centro AmÃ©rica
+http://media2.xyz:8080/live/Darrin/Paulding/120816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Bahia" tvg-logo="" group-title="Brazil",BR: Globo TV Bahia
+http://media2.xyz:8080/live/Darrin/Paulding/120817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID InvestigaÃ§Ã£o Discovery" tvg-logo="" group-title="Brazil",BR: ID InvestigaÃ§Ã£o Discovery
+http://media2.xyz:8080/live/Darrin/Paulding/120818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS GLOBOSAT" tvg-logo="" group-title="Brazil",BR: MAIS GLOBOSAT
+http://media2.xyz:8080/live/Darrin/Paulding/120819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX" tvg-logo="" group-title="Brazil",BR: MAX
+http://media2.xyz:8080/live/Darrin/Paulding/120820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAX PRIME" tvg-logo="" group-title="Brazil",BR: MAX PRIME
+http://media2.xyz:8080/live/Darrin/Paulding/120821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX" tvg-logo="" group-title="Brazil",BR: MEGAPIX
+http://media2.xyz:8080/live/Darrin/Paulding/120822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX" tvg-logo="" group-title="Brazil",BR: MEGAPIX
+http://media2.xyz:8080/live/Darrin/Paulding/120823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW" tvg-logo="" group-title="Brazil",BR: MULTISHOW
+http://media2.xyz:8080/live/Darrin/Paulding/120824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mais Globosat" tvg-logo="" group-title="Brazil",BR: Mais Globosat
+http://media2.xyz:8080/live/Darrin/Paulding/120825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Megapix" tvg-logo="" group-title="Brazil",BR: Megapix
+http://media2.xyz:8080/live/Darrin/Paulding/120826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Modo Viagem" tvg-logo="" group-title="Brazil",BR: Modo Viagem
+http://media2.xyz:8080/live/Darrin/Paulding/120827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: PRIME BOX BRASIL" tvg-logo="" group-title="Brazil",BR: PRIME BOX BRASIL
+http://media2.xyz:8080/live/Darrin/Paulding/120828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes Extra" tvg-logo="" group-title="Brazil",BR: Premiere Clubes Extra
+http://media2.xyz:8080/live/Darrin/Paulding/120829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Nordeste" tvg-logo="" group-title="Brazil",BR: Record Nordeste
+http://media2.xyz:8080/live/Darrin/Paulding/120830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP" tvg-logo="" group-title="Brazil",BR: SBT SP
+http://media2.xyz:8080/live/Darrin/Paulding/120831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="" group-title="Brazil",BR: SPORTV
+http://media2.xyz:8080/live/Darrin/Paulding/120832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="" group-title="Brazil",BR: SPORTV 2
+http://media2.xyz:8080/live/Darrin/Paulding/120833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Star Life" tvg-logo="" group-title="Brazil",BR: Star Life
+http://media2.xyz:8080/live/Darrin/Paulding/120834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT" tvg-logo="" group-title="Brazil",BR: TELECINE CULT
+http://media2.xyz:8080/live/Darrin/Paulding/120835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TLC" tvg-logo="" group-title="Brazil",BR: TLC
+http://media2.xyz:8080/live/Darrin/Paulding/120836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SÃ©ries" tvg-logo="" group-title="Brazil",BR: TNT SÃ©ries
+http://media2.xyz:8080/live/Darrin/Paulding/120837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV CULTURA" tvg-logo="" group-title="Brazil",BR: TV CULTURA
+http://media2.xyz:8080/live/Darrin/Paulding/120838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV ESCOLA" tvg-logo="" group-title="Brazil",BR: TV ESCOLA
+http://media2.xyz:8080/live/Darrin/Paulding/120839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: TVCINE ACTION" tvg-logo="" group-title="Brazil",BR: TVCINE ACTION
+http://media2.xyz:8080/live/Darrin/Paulding/120840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult" tvg-logo="" group-title="Brazil",BR: Telecine Cult
+http://media2.xyz:8080/live/Darrin/Paulding/120841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL TV" tvg-logo="" group-title="Brazil",BR: UNIVERSAL TV
+http://media2.xyz:8080/live/Darrin/Paulding/120842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1" tvg-logo="" group-title="Brazil",BR: VH1
+http://media2.xyz:8080/live/Darrin/Paulding/120843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER" tvg-logo="" group-title="Brazil",BR: WARNER
+http://media2.xyz:8080/live/Darrin/Paulding/120844.m3u8
