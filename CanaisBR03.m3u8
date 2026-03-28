@@ -1,0 +1,778 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="RECORD ALAGOAS HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",RECORD ALAGOAS HD
+http://lphas.click:80/verasalto1/65432109/27530847.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RECIFE HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",RECORD RECIFE HD
+http://lphas.click:80/verasalto1/65432109/27530846.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT LONDRINA HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT LONDRINA HD
+http://lphas.click:80/verasalto1/65432109/27530845.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT ALAGOAS HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT ALAGOAS HD
+http://lphas.click:80/verasalto1/65432109/27530844.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT RIO GRANDE DO NORTE HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT RIO GRANDE DO NORTE HD
+http://lphas.click:80/verasalto1/65432109/27530843.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT CAPIXABA HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT CAPIXABA HD
+http://lphas.click:80/verasalto1/65432109/27530842.ts
+#EXTINF:-1 tvg-id="" tvg-name="JB FM" tvg-logo="" group-title="RÁDIO",JB FM
+http://lphas.click:80/verasalto1/65432109/27521217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Elephants - San Diego Zoo" tvg-logo="" group-title="CÂMERAS AO VIVO",Elephants - San Diego Zoo
+http://lphas.click:80/verasalto1/65432109/27519038.ts
+#EXTINF:-1 tvg-id="" tvg-name="Penguins - San Diego Zoo" tvg-logo="" group-title="CÂMERAS AO VIVO",Penguins - San Diego Zoo
+http://lphas.click:80/verasalto1/65432109/27519037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Koala Cam - San Diego Zoo" tvg-logo="" group-title="CÂMERAS AO VIVO",Koala Cam - San Diego Zoo
+http://lphas.click:80/verasalto1/65432109/27519036.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mundial" tvg-logo="" group-title="➡️ RELIGIOSOS",Rede Mundial
+http://lphas.click:80/verasalto1/65432109/27518378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record Tv Belém • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Belém • HD
+http://lphas.click:80/verasalto1/65432109/27510944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Cultura FM 103.3" tvg-logo="https://i.imgur.com/ZZH23Wu.png" group-title="RÁDIO",Rádio Cultura FM 103.3
+http://lphas.click:80/verasalto1/65432109/27515302.ts
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade Tv • FHD" tvg-logo="https://i.imgur.com/qNKK0aP.png" group-title="➡️ RELIGIOSOS",Boa Vontade Tv • FHD
+http://lphas.click:80/verasalto1/65432109/27514853.ts
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade Tv • HD" tvg-logo="https://i.imgur.com/qNKK0aP.png" group-title="➡️ RELIGIOSOS",Boa Vontade Tv • HD
+http://lphas.click:80/verasalto1/65432109/27514852.ts
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-name="Boa Vontade Tv • SD" tvg-logo="https://i.imgur.com/qNKK0aP.png" group-title="➡️ RELIGIOSOS",Boa Vontade Tv • SD
+http://lphas.click:80/verasalto1/65432109/27514851.ts
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="Canção Nova • FHD" tvg-logo="https://i.imgur.com/nRSZpIF.png" group-title="➡️ RELIGIOSOS",Canção Nova • FHD
+http://lphas.click:80/verasalto1/65432109/27514850.ts
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="Canção Nova • HD" tvg-logo="https://i.imgur.com/nRSZpIF.png" group-title="➡️ RELIGIOSOS",Canção Nova • HD
+http://lphas.click:80/verasalto1/65432109/27514849.ts
+#EXTINF:-1 tvg-id="br#canc-o-nova-hd" tvg-name="Canção Nova • SD" tvg-logo="https://i.imgur.com/nRSZpIF.png" group-title="➡️ RELIGIOSOS",Canção Nova • SD
+http://lphas.click:80/verasalto1/65432109/27514848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Cartoon" tvg-logo="https://i.imgur.com/8rHLjPA.png" group-title="➡️ RELIGIOSOS",Gospel Cartoon
+http://lphas.click:80/verasalto1/65432109/27514847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movie" tvg-logo="https://i.imgur.com/L5b5Y4n.png" group-title="➡️ RELIGIOSOS",Gospel Movie
+http://lphas.click:80/verasalto1/65432109/27514846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno • FHD" tvg-logo="https://i.imgur.com/6lVdSHC.png" group-title="➡️ RELIGIOSOS",Pai Eterno • FHD
+http://lphas.click:80/verasalto1/65432109/27514842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno • HD" tvg-logo="https://i.imgur.com/6lVdSHC.png" group-title="➡️ RELIGIOSOS",Pai Eterno • HD
+http://lphas.click:80/verasalto1/65432109/27514841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno • SD" tvg-logo="https://i.imgur.com/6lVdSHC.png" group-title="➡️ RELIGIOSOS",Pai Eterno • SD
+http://lphas.click:80/verasalto1/65432109/27514840.ts
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel • FHD" tvg-logo="https://i.imgur.com/kvFanhO.png" group-title="➡️ RELIGIOSOS",Rede Gospel • FHD
+http://lphas.click:80/verasalto1/65432109/27514839.ts
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel • HD" tvg-logo="https://i.imgur.com/kvFanhO.png" group-title="➡️ RELIGIOSOS",Rede Gospel • HD
+http://lphas.click:80/verasalto1/65432109/27514838.ts
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel • SD" tvg-logo="https://i.imgur.com/kvFanhO.png" group-title="➡️ RELIGIOSOS",Rede Gospel • SD
+http://lphas.click:80/verasalto1/65432109/27514837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Plenitude Tv" tvg-logo="https://i.imgur.com/fLCigFJ.png" group-title="➡️ RELIGIOSOS",Rede Plenitude Tv
+http://lphas.click:80/verasalto1/65432109/27514836.ts
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="Rede Super" tvg-logo="https://i.imgur.com/xDmRYiH.png" group-title="➡️ RELIGIOSOS",Rede Super
+http://lphas.click:80/verasalto1/65432109/27514835.ts
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida • FHD" tvg-logo="https://i.imgur.com/hpk4uk9.png" group-title="➡️ RELIGIOSOS",Rede Vida • FHD
+http://lphas.click:80/verasalto1/65432109/27514834.ts
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida • HD" tvg-logo="https://i.imgur.com/hpk4uk9.png" group-title="➡️ RELIGIOSOS",Rede Vida • HD
+http://lphas.click:80/verasalto1/65432109/27514833.ts
+#EXTINF:-1 tvg-id="br#rede-vida-hd" tvg-name="Rede Vida • SD" tvg-logo="https://i.imgur.com/hpk4uk9.png" group-title="➡️ RELIGIOSOS",Rede Vida • SD
+http://lphas.click:80/verasalto1/65432109/27514832.ts
+#EXTINF:-1 tvg-id="br#rit-hd" tvg-name="Rit" tvg-logo="https://i.imgur.com/reADyoV.png" group-title="➡️ RELIGIOSOS",Rit
+http://lphas.click:80/verasalto1/65432109/27514831.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="Tv Aparecida • FHD" tvg-logo="https://i.imgur.com/EVjP8io.png" group-title="➡️ RELIGIOSOS",Tv Aparecida • FHD
+http://lphas.click:80/verasalto1/65432109/27514830.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="Tv Aparecida • HD" tvg-logo="https://i.imgur.com/EVjP8io.png" group-title="➡️ RELIGIOSOS",Tv Aparecida • HD
+http://lphas.click:80/verasalto1/65432109/27514829.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="Tv Aparecida • SD" tvg-logo="https://i.imgur.com/EVjP8io.png" group-title="➡️ RELIGIOSOS",Tv Aparecida • SD
+http://lphas.click:80/verasalto1/65432109/27514828.ts
+#EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="Tv Evangelizar" tvg-logo="https://i.imgur.com/jUtIlo4.png" group-title="➡️ RELIGIOSOS",Tv Evangelizar
+http://lphas.click:80/verasalto1/65432109/27514827.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Gideões" tvg-logo="https://i.imgur.com/wNpK4MQ.png" group-title="➡️ RELIGIOSOS",Tv Gideões
+http://lphas.click:80/verasalto1/65432109/27514826.ts
+#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="Tv Novo Tempo • FHD" tvg-logo="https://i.imgur.com/Cfcy3IH.png" group-title="➡️ RELIGIOSOS",Tv Novo Tempo • FHD
+http://lphas.click:80/verasalto1/65432109/27514825.ts
+#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="Tv Novo Tempo • HD" tvg-logo="https://i.imgur.com/Cfcy3IH.png" group-title="➡️ RELIGIOSOS",Tv Novo Tempo • HD
+http://lphas.click:80/verasalto1/65432109/27514824.ts
+#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="Tv Novo Tempo • SD" tvg-logo="https://i.imgur.com/Cfcy3IH.png" group-title="➡️ RELIGIOSOS",Tv Novo Tempo • SD
+http://lphas.click:80/verasalto1/65432109/27514823.ts
+#EXTINF:-1 tvg-id="NSCTVBlumenau.br" tvg-name="Globo NSC TV Blumenau • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Blumenau • FHD
+http://lphas.click:80/verasalto1/65432109/27514366.ts
+#EXTINF:-1 tvg-id="NSCTVBlumenau.br" tvg-name="Globo NSC TV Blumenau • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Blumenau • HD
+http://lphas.click:80/verasalto1/65432109/27514365.ts
+#EXTINF:-1 tvg-id="NSCTVBlumenau.br" tvg-name="Globo NSC TV Blumenau • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Blumenau • SD
+http://lphas.click:80/verasalto1/65432109/27514364.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Centro Oeste • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Centro Oeste • FHD
+http://lphas.click:80/verasalto1/65432109/27514363.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Centro Oeste • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Centro Oeste • HD
+http://lphas.click:80/verasalto1/65432109/27514362.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Centro Oeste • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Centro Oeste • SD
+http://lphas.click:80/verasalto1/65432109/27514361.ts
+#EXTINF:-1 tvg-id="NSCTVChapeco.br" tvg-name="Globo NSC TV Chapeco • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Chapeco • FHD
+http://lphas.click:80/verasalto1/65432109/27514360.ts
+#EXTINF:-1 tvg-id="NSCTVChapeco.br" tvg-name="Globo NSC TV Chapeco • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Chapeco • HD
+http://lphas.click:80/verasalto1/65432109/27514359.ts
+#EXTINF:-1 tvg-id="NSCTVChapeco.br" tvg-name="Globo NSC TV Chapeco • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Chapeco • SD
+http://lphas.click:80/verasalto1/65432109/27514358.ts
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC TV Criciuma • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Criciuma • FHD
+http://lphas.click:80/verasalto1/65432109/27514357.ts
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC TV Criciuma • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Criciuma • HD
+http://lphas.click:80/verasalto1/65432109/27514356.ts
+#EXTINF:-1 tvg-id="NSCTVCriciuma.br" tvg-name="Globo NSC TV Criciuma • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Criciuma • SD
+http://lphas.click:80/verasalto1/65432109/27514355.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Florianopolis • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Florianopolis • FHD
+http://lphas.click:80/verasalto1/65432109/27514354.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Florianopolis • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Florianopolis • HD
+http://lphas.click:80/verasalto1/65432109/27514353.ts
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo NSC TV Florianopolis • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Florianopolis • SD
+http://lphas.click:80/verasalto1/65432109/27514352.ts
+#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="Globo NSC TV Joinville • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Joinville • FHD
+http://lphas.click:80/verasalto1/65432109/27514351.ts
+#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="Globo NSC TV Joinville • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Joinville • HD
+http://lphas.click:80/verasalto1/65432109/27514350.ts
+#EXTINF:-1 tvg-id="NSCTVJoinville.br" tvg-name="Globo NSC TV Joinville • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo NSC TV Joinville • SD
+http://lphas.click:80/verasalto1/65432109/27514349.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Caxias do Sul • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Caxias do Sul • FHD
+http://lphas.click:80/verasalto1/65432109/27514348.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Caxias do Sul • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Caxias do Sul • HD
+http://lphas.click:80/verasalto1/65432109/27514347.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Caxias do Sul • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Caxias do Sul • SD
+http://lphas.click:80/verasalto1/65432109/27514346.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Passo Fundo • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Passo Fundo • FHD
+http://lphas.click:80/verasalto1/65432109/27514345.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Passo Fundo • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Passo Fundo • HD
+http://lphas.click:80/verasalto1/65432109/27514344.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Passo Fundo • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Passo Fundo • SD
+http://lphas.click:80/verasalto1/65432109/27514343.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Pelotas • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Pelotas • FHD
+http://lphas.click:80/verasalto1/65432109/27514342.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Pelotas • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Pelotas • HD
+http://lphas.click:80/verasalto1/65432109/27514341.ts
+#EXTINF:-1 tvg-id="RBSTVRS.br" tvg-name="Globo RBS TV Pelotas • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Pelotas • SD
+http://lphas.click:80/verasalto1/65432109/27514340.ts
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Porto Alegre • FHD
+http://lphas.click:80/verasalto1/65432109/27514339.ts
+#EXTINF:-1 tvg-id="RBSTVPortoAlegre.br" tvg-name="Globo RBS TV Porto Alegre • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Porto Alegre • HD
+http://lphas.click:80/verasalto1/65432109/27514338.ts
+#EXTINF:-1 tvg-id="RBSTVSantaMaria.br" tvg-name="Globo RBS TV Porto Alegre • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Porto Alegre • SD
+http://lphas.click:80/verasalto1/65432109/27514337.ts
+#EXTINF:-1 tvg-id="RBSTVSantaMaria.br" tvg-name="Globo RBS TV Santa Maria • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Santa Maria • FHD
+http://lphas.click:80/verasalto1/65432109/27514336.ts
+#EXTINF:-1 tvg-id="RBSTVSantaMaria.br" tvg-name="Globo RBS TV Santa Maria • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Santa Maria • HD
+http://lphas.click:80/verasalto1/65432109/27514335.ts
+#EXTINF:-1 tvg-id="RBSTVSantaMaria.br" tvg-name="Globo RBS TV Santa Maria • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RBS TV Santa Maria • SD
+http://lphas.click:80/verasalto1/65432109/27514334.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC Cascavel • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC Cascavel • FHD
+http://lphas.click:80/verasalto1/65432109/27514333.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC Cascavel • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC Cascavel • HD
+http://lphas.click:80/verasalto1/65432109/27514332.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC Cascavel • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC Cascavel • SD
+http://lphas.click:80/verasalto1/65432109/27514331.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Curitiba • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Curitiba • FHD
+http://lphas.click:80/verasalto1/65432109/27514330.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Curitiba • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Curitiba • HD
+http://lphas.click:80/verasalto1/65432109/27514329.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Curitiba • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Curitiba • SD
+http://lphas.click:80/verasalto1/65432109/27514328.ts
+#EXTINF:-1 tvg-id="RPCTVFozdoIguacu.br" tvg-name="Globo RPC TV Foz do Iguacu • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Foz do Iguacu • FHD
+http://lphas.click:80/verasalto1/65432109/27514327.ts
+#EXTINF:-1 tvg-id="RPCTVFozdoIguacu.br" tvg-name="Globo RPC TV Foz do Iguacu • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Foz do Iguacu • HD
+http://lphas.click:80/verasalto1/65432109/27514326.ts
+#EXTINF:-1 tvg-id="RPCTVFozdoIguacu.br" tvg-name="Globo RPC TV Foz do Iguacu • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Foz do Iguacu • SD
+http://lphas.click:80/verasalto1/65432109/27514325.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Londrina • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Londrina • FHD
+http://lphas.click:80/verasalto1/65432109/27514324.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Londrina • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Londrina • HD
+http://lphas.click:80/verasalto1/65432109/27514323.ts
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo RPC TV Londrina • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Londrina • SD
+http://lphas.click:80/verasalto1/65432109/27514322.ts
+#EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="Globo RPC TV Maringa • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Maringa • FHD
+http://lphas.click:80/verasalto1/65432109/27514321.ts
+#EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="Globo RPC TV Maringa • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Maringa • HD
+http://lphas.click:80/verasalto1/65432109/27514320.ts
+#EXTINF:-1 tvg-id="RPCTVMaringa.br" tvg-name="Globo RPC TV Maringa • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Maringa • SD
+http://lphas.click:80/verasalto1/65432109/27514319.ts
+#EXTINF:-1 tvg-id="RPCTVParanavai.br" tvg-name="Globo RPC TV Paranavai • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Paranavai • FHD
+http://lphas.click:80/verasalto1/65432109/27514318.ts
+#EXTINF:-1 tvg-id="RPCTVParanavai.br" tvg-name="Globo RPC TV Paranavai • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Paranavai • HD
+http://lphas.click:80/verasalto1/65432109/27514317.ts
+#EXTINF:-1 tvg-id="RPCTVParanavai.br" tvg-name="Globo RPC TV Paranavai • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Paranavai • SD
+http://lphas.click:80/verasalto1/65432109/27514316.ts
+#EXTINF:-1 tvg-id="RPCTVPontaGrossa.br" tvg-name="Globo RPC TV Ponta Grossa • FHD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Ponta Grossa • FHD
+http://lphas.click:80/verasalto1/65432109/27514315.ts
+#EXTINF:-1 tvg-id="RPCTVPontaGrossa.br" tvg-name="Globo RPC TV Ponta Grossa • HD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Ponta Grossa • HD
+http://lphas.click:80/verasalto1/65432109/27514314.ts
+#EXTINF:-1 tvg-id="RPCTVPontaGrossa.br" tvg-name="Globo RPC TV Ponta Grossa • SD" tvg-logo="https://i.imgur.com/35EHiAg.png" group-title="☑️ GLOBO • SUL",Globo RPC TV Ponta Grossa • SD
+http://lphas.click:80/verasalto1/65432109/27514313.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate • FHD" tvg-logo="https://i.imgur.com/NgfTKJg.png" group-title="➡️ COMBATE - UFC FIGHT PASS",Combate • FHD
+http://lphas.click:80/verasalto1/65432109/27514180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate • HD" tvg-logo="https://i.imgur.com/NgfTKJg.png" group-title="➡️ COMBATE - UFC FIGHT PASS",Combate • HD
+http://lphas.click:80/verasalto1/65432109/27514179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate • SD" tvg-logo="https://i.imgur.com/NgfTKJg.png" group-title="➡️ COMBATE - UFC FIGHT PASS",Combate • SD
+http://lphas.click:80/verasalto1/65432109/27514178.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass • FHD" tvg-logo="https://i.imgur.com/vrliug8.png" group-title="➡️ COMBATE - UFC FIGHT PASS",UFC Fight Pass • FHD
+http://lphas.click:80/verasalto1/65432109/27514177.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass • HD" tvg-logo="https://i.imgur.com/vrliug8.png" group-title="➡️ COMBATE - UFC FIGHT PASS",UFC Fight Pass • HD
+http://lphas.click:80/verasalto1/65432109/27514176.ts
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass • SD" tvg-logo="https://i.imgur.com/vrliug8.png" group-title="➡️ COMBATE - UFC FIGHT PASS",UFC Fight Pass • SD
+http://lphas.click:80/verasalto1/65432109/27514175.ts
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="Agromais • FHD" tvg-logo="https://i.imgur.com/bohRARk.png" group-title="➡️ CANAIS ABERTOS",Agromais • FHD
+http://lphas.click:80/verasalto1/65432109/27514117.ts
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="Agromais • HD" tvg-logo="https://i.imgur.com/bohRARk.png" group-title="➡️ CANAIS ABERTOS",Agromais • HD
+http://lphas.click:80/verasalto1/65432109/27514116.ts
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="Agromais • SD" tvg-logo="https://i.imgur.com/bohRARk.png" group-title="➡️ CANAIS ABERTOS",Agromais • SD
+http://lphas.click:80/verasalto1/65432109/27514115.ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil • FHD" tvg-logo="https://i.imgur.com/99vP9wD.png" group-title="➡️ CANAIS ABERTOS",Canal Brasil • FHD
+http://lphas.click:80/verasalto1/65432109/27514114.ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil • HD" tvg-logo="https://i.imgur.com/99vP9wD.png" group-title="➡️ CANAIS ABERTOS",Canal Brasil • HD
+http://lphas.click:80/verasalto1/65432109/27514113.ts
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil • SD" tvg-logo="https://i.imgur.com/99vP9wD.png" group-title="➡️ CANAIS ABERTOS",Canal Brasil • SD
+http://lphas.click:80/verasalto1/65432109/27514112.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi • FHD" tvg-logo="https://i.imgur.com/DLRmDVt.png" group-title="➡️ CANAIS ABERTOS",Canal do Boi • FHD
+http://lphas.click:80/verasalto1/65432109/27514111.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi • HD" tvg-logo="https://i.imgur.com/DLRmDVt.png" group-title="➡️ CANAIS ABERTOS",Canal do Boi • HD
+http://lphas.click:80/verasalto1/65432109/27514110.ts
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi • SD" tvg-logo="https://i.imgur.com/DLRmDVt.png" group-title="➡️ CANAIS ABERTOS",Canal do Boi • SD
+http://lphas.click:80/verasalto1/65432109/27514109.ts
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov • FHD" tvg-logo="https://i.imgur.com/6mbEQsu.png" group-title="➡️ CANAIS ABERTOS",Canal Gov • FHD
+http://lphas.click:80/verasalto1/65432109/27514108.ts
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov • HD" tvg-logo="https://i.imgur.com/6mbEQsu.png" group-title="➡️ CANAIS ABERTOS",Canal Gov • HD
+http://lphas.click:80/verasalto1/65432109/27514107.ts
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov • SD" tvg-logo="https://i.imgur.com/6mbEQsu.png" group-title="➡️ CANAIS ABERTOS",Canal Gov • SD
+http://lphas.click:80/verasalto1/65432109/27514106.ts
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural • FHD" tvg-logo="https://i.imgur.com/JTk5oS3.png" group-title="➡️ CANAIS ABERTOS",Canal Rural • FHD
+http://lphas.click:80/verasalto1/65432109/27514105.ts
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural • HD" tvg-logo="https://i.imgur.com/JTk5oS3.png" group-title="➡️ CANAIS ABERTOS",Canal Rural • HD
+http://lphas.click:80/verasalto1/65432109/27514104.ts
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural • SD" tvg-logo="https://i.imgur.com/JTk5oS3.png" group-title="➡️ CANAIS ABERTOS",Canal Rural • SD
+http://lphas.click:80/verasalto1/65432109/27514103.ts
+#EXTINF:-1 tvg-id="br#cnt" tvg-name="CNT • FHD" tvg-logo="https://i.imgur.com/15H7pWT.png" group-title="➡️ CANAIS ABERTOS",CNT • FHD
+http://lphas.click:80/verasalto1/65432109/27514102.ts
+#EXTINF:-1 tvg-id="br#cnt" tvg-name="CNT • HD" tvg-logo="https://i.imgur.com/15H7pWT.png" group-title="➡️ CANAIS ABERTOS",CNT • HD
+http://lphas.click:80/verasalto1/65432109/27514101.ts
+#EXTINF:-1 tvg-id="br#cnt" tvg-name="CNT • SD" tvg-logo="https://i.imgur.com/15H7pWT.png" group-title="➡️ CANAIS ABERTOS",CNT • SD
+http://lphas.click:80/verasalto1/65432109/27514100.ts
+#EXTINF:-1 tvg-id="br#futura-hd" tvg-name="Futura • FHD" tvg-logo="https://i.imgur.com/fzY9di9.png" group-title="➡️ CANAIS ABERTOS",Futura • FHD
+http://lphas.click:80/verasalto1/65432109/27514099.ts
+#EXTINF:-1 tvg-id="br#futura-hd" tvg-name="Futura • HD" tvg-logo="https://i.imgur.com/fzY9di9.png" group-title="➡️ CANAIS ABERTOS",Futura • HD
+http://lphas.click:80/verasalto1/65432109/27514098.ts
+#EXTINF:-1 tvg-id="br#futura-hd" tvg-name="Futura • SD" tvg-logo="https://i.imgur.com/fzY9di9.png" group-title="➡️ CANAIS ABERTOS",Futura • SD
+http://lphas.click:80/verasalto1/65432109/27514097.ts
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil • FHD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",Rede Brasil • FHD
+http://lphas.click:80/verasalto1/65432109/27514090.ts
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil • HD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",Rede Brasil • HD
+http://lphas.click:80/verasalto1/65432109/27514089.ts
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil • SD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",Rede Brasil • SD
+http://lphas.click:80/verasalto1/65432109/27514088.ts
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! • FHD" tvg-logo="https://i.imgur.com/m9Siu0f.png" group-title="➡️ CANAIS ABERTOS",RedeTV! • FHD
+http://lphas.click:80/verasalto1/65432109/27514087.ts
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! • HD" tvg-logo="https://i.imgur.com/m9Siu0f.png" group-title="➡️ CANAIS ABERTOS",RedeTV! • HD
+http://lphas.click:80/verasalto1/65432109/27514086.ts
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! • SD" tvg-logo="https://i.imgur.com/m9Siu0f.png" group-title="➡️ CANAIS ABERTOS",RedeTV! • SD
+http://lphas.click:80/verasalto1/65432109/27514085.ts
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBC • FHD" tvg-logo="https://i.imgur.com/ktqXdBF.png" group-title="➡️ CANAIS ABERTOS",TBC • FHD
+http://lphas.click:80/verasalto1/65432109/27514081.ts
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBC • HD" tvg-logo="https://i.imgur.com/ktqXdBF.png" group-title="➡️ CANAIS ABERTOS",TBC • HD
+http://lphas.click:80/verasalto1/65432109/27514080.ts
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBC • SD" tvg-logo="https://i.imgur.com/ktqXdBF.png" group-title="➡️ CANAIS ABERTOS",TBC • SD
+http://lphas.click:80/verasalto1/65432109/27514079.ts
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva • FHD" tvg-logo="https://i.imgur.com/afuFGB9.png" group-title="➡️ CANAIS ABERTOS",Terra Viva • FHD
+http://lphas.click:80/verasalto1/65432109/27514078.ts
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva • HD" tvg-logo="https://i.imgur.com/afuFGB9.png" group-title="➡️ CANAIS ABERTOS",Terra Viva • HD
+http://lphas.click:80/verasalto1/65432109/27514077.ts
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva • SD" tvg-logo="https://i.imgur.com/afuFGB9.png" group-title="➡️ CANAIS ABERTOS",Terra Viva • SD
+http://lphas.click:80/verasalto1/65432109/27514076.ts
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV Acrítica • FHD" tvg-logo="https://i.imgur.com/jdDqpZu.png" group-title="➡️ CANAIS ABERTOS",TV Acrítica • FHD
+http://lphas.click:80/verasalto1/65432109/27514075.ts
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV Acrítica • HD" tvg-logo="https://i.imgur.com/jdDqpZu.png" group-title="➡️ CANAIS ABERTOS",TV Acrítica • HD
+http://lphas.click:80/verasalto1/65432109/27514074.ts
+#EXTINF:-1 tvg-id="TVACritica.br" tvg-name="TV Acrítica • SD" tvg-logo="https://i.imgur.com/jdDqpZu.png" group-title="➡️ CANAIS ABERTOS",TV Acrítica • SD
+http://lphas.click:80/verasalto1/65432109/27514073.ts
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil • FHD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",TV Brasil • FHD
+http://lphas.click:80/verasalto1/65432109/27514072.ts
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil • HD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",TV Brasil • HD
+http://lphas.click:80/verasalto1/65432109/27514071.ts
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil • SD" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",TV Brasil • SD
+http://lphas.click:80/verasalto1/65432109/27514070.ts
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara • FHD" tvg-logo="https://i.imgur.com/ka46EaI.png" group-title="➡️ CANAIS ABERTOS",TV Câmara • FHD
+http://lphas.click:80/verasalto1/65432109/27514069.ts
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara • HD" tvg-logo="https://i.imgur.com/ka46EaI.png" group-title="➡️ CANAIS ABERTOS",TV Câmara • HD
+http://lphas.click:80/verasalto1/65432109/27514068.ts
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara • SD" tvg-logo="https://i.imgur.com/ka46EaI.png" group-title="➡️ CANAIS ABERTOS",TV Câmara • SD
+http://lphas.click:80/verasalto1/65432109/27514067.ts
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura • FHD" tvg-logo="https://i.imgur.com/6xias38.png" group-title="➡️ CANAIS ABERTOS",TV Cultura • FHD
+http://lphas.click:80/verasalto1/65432109/27514066.ts
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura • HD" tvg-logo="https://i.imgur.com/6xias38.png" group-title="➡️ CANAIS ABERTOS",TV Cultura • HD
+http://lphas.click:80/verasalto1/65432109/27514065.ts
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura • SD" tvg-logo="https://i.imgur.com/6xias38.png" group-title="➡️ CANAIS ABERTOS",TV Cultura • SD
+http://lphas.click:80/verasalto1/65432109/27514064.ts
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário • FHD" tvg-logo="https://i.imgur.com/R0tnLFM.png" group-title="➡️ CANAIS ABERTOS",TV Diário • FHD
+http://lphas.click:80/verasalto1/65432109/27514063.ts
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário • HD" tvg-logo="https://i.imgur.com/R0tnLFM.png" group-title="➡️ CANAIS ABERTOS",TV Diário • HD
+http://lphas.click:80/verasalto1/65432109/27514062.ts
+#EXTINF:-1 tvg-id="TVDiario.br" tvg-name="TV Diário • SD" tvg-logo="https://i.imgur.com/R0tnLFM.png" group-title="➡️ CANAIS ABERTOS",TV Diário • SD
+http://lphas.click:80/verasalto1/65432109/27514061.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP • FHD" tvg-logo="https://i.imgur.com/y2Zc44g.png" group-title="➡️ CANAIS ABERTOS",TV Gazeta SP • FHD
+http://lphas.click:80/verasalto1/65432109/27514060.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP • HD" tvg-logo="https://i.imgur.com/y2Zc44g.png" group-title="➡️ CANAIS ABERTOS",TV Gazeta SP • HD
+http://lphas.click:80/verasalto1/65432109/27514059.ts
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta SP • SD" tvg-logo="https://i.imgur.com/y2Zc44g.png" group-title="➡️ CANAIS ABERTOS",TV Gazeta SP • SD
+http://lphas.click:80/verasalto1/65432109/27514058.ts
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça • FHD" tvg-logo="https://i.imgur.com/cKtG79F.png" group-title="➡️ CANAIS ABERTOS",TV Justiça • FHD
+http://lphas.click:80/verasalto1/65432109/27514057.ts
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça • HD" tvg-logo="https://i.imgur.com/cKtG79F.png" group-title="➡️ CANAIS ABERTOS",TV Justiça • HD
+http://lphas.click:80/verasalto1/65432109/27514056.ts
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça • SD" tvg-logo="https://i.imgur.com/cKtG79F.png" group-title="➡️ CANAIS ABERTOS",TV Justiça • SD
+http://lphas.click:80/verasalto1/65432109/27514055.ts
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa RS • FHD" tvg-logo="https://i.imgur.com/FSWpWHw.png" group-title="➡️ CANAIS ABERTOS",TV Pampa RS • FHD
+http://lphas.click:80/verasalto1/65432109/27514054.ts
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa RS • HD" tvg-logo="https://i.imgur.com/FSWpWHw.png" group-title="➡️ CANAIS ABERTOS",TV Pampa RS • HD
+http://lphas.click:80/verasalto1/65432109/27514053.ts
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa RS • SD" tvg-logo="https://i.imgur.com/FSWpWHw.png" group-title="➡️ CANAIS ABERTOS",TV Pampa RS • SD
+http://lphas.click:80/verasalto1/65432109/27514052.ts
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado • FHD" tvg-logo="https://i.imgur.com/iJwqahU.png" group-title="➡️ CANAIS ABERTOS",TV Senado • FHD
+http://lphas.click:80/verasalto1/65432109/27514051.ts
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado • HD" tvg-logo="https://i.imgur.com/iJwqahU.png" group-title="➡️ CANAIS ABERTOS",TV Senado • HD
+http://lphas.click:80/verasalto1/65432109/27514050.ts
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado • SD" tvg-logo="https://i.imgur.com/iJwqahU.png" group-title="➡️ CANAIS ABERTOS",TV Senado • SD
+http://lphas.click:80/verasalto1/65432109/27514049.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record SP • FHDR" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record SP • FHDR
+http://lphas.click:80/verasalto1/65432109/27513370.ts
+#EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel • FHDR" tvg-logo="https://i.imgur.com/kvFanhO.png" group-title="➡️ RELIGIOSOS",Rede Gospel • FHDR
+http://lphas.click:80/verasalto1/65432109/27513369.ts
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! • FHDR" tvg-logo="https://i.imgur.com/m9Siu0f.png" group-title="➡️ CANAIS ABERTOS",RedeTV! • FHDR
+http://lphas.click:80/verasalto1/65432109/27513368.ts
+#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida • FHDR" tvg-logo="https://i.imgur.com/hpk4uk9.png" group-title="➡️ RELIGIOSOS",Rede Vida • FHDR
+http://lphas.click:80/verasalto1/65432109/27513367.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT SP • FHDR" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT SP • FHDR
+http://lphas.click:80/verasalto1/65432109/27513365.ts
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida • FHDR" tvg-logo="https://i.imgur.com/EVjP8io.png" group-title="➡️ RELIGIOSOS",TV Aparecida • FHDR
+http://lphas.click:80/verasalto1/65432109/27513340.ts
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil • FHDR" tvg-logo="https://i.imgur.com/hqKxnCa.png" group-title="➡️ CANAIS ABERTOS",TV Brasil • FHDR
+http://lphas.click:80/verasalto1/65432109/27513339.ts
+#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV Novo Tempo • FHDR" tvg-logo="https://i.imgur.com/Cfcy3IH.png" group-title="➡️ RELIGIOSOS",TV Novo Tempo • FHDR
+http://lphas.click:80/verasalto1/65432109/27513337.ts
+#EXTINF:-1 tvg-id="UniversalTV.br" tvg-name="Universal TV • FHDR" tvg-logo="https://i.imgur.com/GT7fUxg.png" group-title="➡️ RELIGIOSOS",Universal TV • FHDR
+http://lphas.click:80/verasalto1/65432109/27513333.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NFL PASS 01" tvg-logo="https://i.imgur.com/EKFyllm.png" group-title="⚽ PPV • NFL",NFL PASS 01
+http://lphas.click:80/verasalto1/65432109/27511564.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NFL PASS 02" tvg-logo="https://i.imgur.com/EKFyllm.png" group-title="⚽ PPV • NFL",NFL PASS 02
+http://lphas.click:80/verasalto1/65432109/27511562.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 1 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 1 • FHD
+http://lphas.click:80/verasalto1/65432109/27511555.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 1 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 1 • HD
+http://lphas.click:80/verasalto1/65432109/27511554.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 1 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 1 • SD
+http://lphas.click:80/verasalto1/65432109/27511553.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 2 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 2 • FHD
+http://lphas.click:80/verasalto1/65432109/27511552.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 2 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 2 • HD
+http://lphas.click:80/verasalto1/65432109/27511551.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 2 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 2 • SD
+http://lphas.click:80/verasalto1/65432109/27511550.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 3 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 3 • FHD
+http://lphas.click:80/verasalto1/65432109/27511549.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 3 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 3 • HD
+http://lphas.click:80/verasalto1/65432109/27511548.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 3 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 3 • SD
+http://lphas.click:80/verasalto1/65432109/27511547.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 4 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 4 • FHD
+http://lphas.click:80/verasalto1/65432109/27511546.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 4 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 4 • HD
+http://lphas.click:80/verasalto1/65432109/27511545.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 4 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 4 • SD
+http://lphas.click:80/verasalto1/65432109/27511544.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 5 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 5 • FHD
+http://lphas.click:80/verasalto1/65432109/27511543.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 5 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 5 • HD
+http://lphas.click:80/verasalto1/65432109/27511542.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 5 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 5 • SD
+http://lphas.click:80/verasalto1/65432109/27511541.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 6 • FHD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 6 • FHD
+http://lphas.click:80/verasalto1/65432109/27511540.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 6 • HD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 6 • HD
+http://lphas.click:80/verasalto1/65432109/27511539.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="NBA League Pass 6 • SD" tvg-logo="https://i.imgur.com/YgA8iY4.png" group-title="⚽ PPV • NBA",NBA League Pass 6 • SD
+http://lphas.click:80/verasalto1/65432109/27511538.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Blumenau • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Blumenau • FHD
+http://lphas.click:80/verasalto1/65432109/27510943.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Brasilia • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Brasilia • HD
+http://lphas.click:80/verasalto1/65432109/27510942.ts
+#EXTINF:-1 tvg-id="RecordTVCabralia.br" tvg-name="Record Tv Cabralia • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Cabralia • FHD
+http://lphas.click:80/verasalto1/65432109/27510941.ts
+#EXTINF:-1 tvg-id="RecordTVCabralia.br" tvg-name="Record Tv Cabralia • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Cabralia • HD
+http://lphas.click:80/verasalto1/65432109/27510940.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Campinas • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Campinas • FHD
+http://lphas.click:80/verasalto1/65432109/27510939.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Campinas • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Campinas • HD
+http://lphas.click:80/verasalto1/65432109/27510938.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Campinas • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Campinas • SD
+http://lphas.click:80/verasalto1/65432109/27510937.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Ceará • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Ceará • HD
+http://lphas.click:80/verasalto1/65432109/27510936.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Espírito Santo • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Espírito Santo • HD
+http://lphas.click:80/verasalto1/65432109/27510935.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Goiânia • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Goiânia • FHD
+http://lphas.click:80/verasalto1/65432109/27510934.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Goiânia • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Goiânia • HD
+http://lphas.click:80/verasalto1/65432109/27510933.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Goiânia • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Goiânia • SD
+http://lphas.click:80/verasalto1/65432109/27510932.ts
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-name="Record Tv Goiás • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Goiás • FHD
+http://lphas.click:80/verasalto1/65432109/27510931.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Guajará • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Guajará • HD
+http://lphas.click:80/verasalto1/65432109/27510930.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Guaíba • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Guaíba • HD
+http://lphas.click:80/verasalto1/65432109/27510929.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Interior • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior • FHD
+http://lphas.click:80/verasalto1/65432109/27510928.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Interior • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior • HD
+http://lphas.click:80/verasalto1/65432109/27510927.ts
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record Tv Interior RJ • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior RJ • FHD
+http://lphas.click:80/verasalto1/65432109/27510926.ts
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record Tv Interior RJ • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior RJ • HD
+http://lphas.click:80/verasalto1/65432109/27510925.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Interior SP • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior SP • FHD
+http://lphas.click:80/verasalto1/65432109/27510924.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Interior SP • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Interior SP • HD
+http://lphas.click:80/verasalto1/65432109/27510923.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Itapoan • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Itapoan • FHD
+http://lphas.click:80/verasalto1/65432109/27510922.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Itapoan • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Itapoan • HD
+http://lphas.click:80/verasalto1/65432109/27510921.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Itapoan • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Itapoan • SD
+http://lphas.click:80/verasalto1/65432109/27510920.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Lucas do Rio Verde MT • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Lucas do Rio Verde MT • HD
+http://lphas.click:80/verasalto1/65432109/27510918.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Litoral • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Litoral • HD
+http://lphas.click:80/verasalto1/65432109/27510917.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Litoral Vale do Parnaíba • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Litoral Vale do Parnaíba • FHD
+http://lphas.click:80/verasalto1/65432109/27510916.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Litoral Vale do Parnaíba • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Litoral Vale do Parnaíba • HD
+http://lphas.click:80/verasalto1/65432109/27510915.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Litoral Vale • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Litoral Vale • FHD
+http://lphas.click:80/verasalto1/65432109/27510914.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Litoral Vale • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Litoral Vale • HD
+http://lphas.click:80/verasalto1/65432109/27510913.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Manaus • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Manaus • HD
+http://lphas.click:80/verasalto1/65432109/27510912.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Maranhão" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Maranhão
+http://lphas.click:80/verasalto1/65432109/27510911.ts
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record Tv Minas • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Minas • FHD
+http://lphas.click:80/verasalto1/65432109/27510910.ts
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record Tv Minas Gerais • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Minas Gerais • SD
+http://lphas.click:80/verasalto1/65432109/27510909.ts
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record Tv Minas • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Minas • HD
+http://lphas.click:80/verasalto1/65432109/27510908.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paraíba • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paraíba • HD
+http://lphas.click:80/verasalto1/65432109/27510907.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paraná • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paraná • FHD
+http://lphas.click:80/verasalto1/65432109/27510906.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paraná • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paraná • HD
+http://lphas.click:80/verasalto1/65432109/27510905.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paraná RIC TV • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paraná RIC TV • FHD
+http://lphas.click:80/verasalto1/65432109/27510904.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paraná RIC TV • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paraná RIC TV • HD
+http://lphas.click:80/verasalto1/65432109/27510903.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paranaíba de Uberlândia • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paranaíba de Uberlândia • FHD
+http://lphas.click:80/verasalto1/65432109/27510902.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paranaíba de Uberlândia • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paranaíba de Uberlândia • HD
+http://lphas.click:80/verasalto1/65432109/27510901.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Paranaíba de Uberlândia • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paranaíba de Uberlândia • SD
+http://lphas.click:80/verasalto1/65432109/27510900.ts
+#EXTINF:-1 tvg-id="RecordTVPaulista.br" tvg-name="Record Tv Paulista Bauru • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Paulista Bauru • HD
+http://lphas.click:80/verasalto1/65432109/27510899.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Piauí • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Piauí • HD
+http://lphas.click:80/verasalto1/65432109/27510898.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Recife Guararapes • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Recife Guararapes • HD
+http://lphas.click:80/verasalto1/65432109/27510897.ts
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record Tv Rio de Janeiro • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio de Janeiro • FHD
+http://lphas.click:80/verasalto1/65432109/27510896.ts
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record Tv Rio de Janeiro • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio de Janeiro • HD
+http://lphas.click:80/verasalto1/65432109/27510895.ts
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record Tv Rio de Janeiro • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio de Janeiro • SD
+http://lphas.click:80/verasalto1/65432109/27510894.ts
+#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="Record Tv Rio Grande do Sul • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Grande do Sul • FHD
+http://lphas.click:80/verasalto1/65432109/27510893.ts
+#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="Record Tv Rio Grande do Sul • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Grande do Sul • HD
+http://lphas.click:80/verasalto1/65432109/27510892.ts
+#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="Record Tv Rio Grande do Sul • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Grande do Sul • SD
+http://lphas.click:80/verasalto1/65432109/27510891.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Rio Preto • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Preto • FHD
+http://lphas.click:80/verasalto1/65432109/27510890.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Rio Preto • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Preto • HD
+http://lphas.click:80/verasalto1/65432109/27510889.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv Rio Preto • SD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rio Preto • SD
+http://lphas.click:80/verasalto1/65432109/27510888.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Rondônia • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Rondônia • FHD
+http://lphas.click:80/verasalto1/65432109/27510887.ts
+#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="Record Tv RS • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv RS • FHD
+http://lphas.click:80/verasalto1/65432109/27510886.ts
+#EXTINF:-1 tvg-id="RecordRS.br" tvg-name="Record Tv RS • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv RS • HD
+http://lphas.click:80/verasalto1/65432109/27510885.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Roraima" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Roraima
+http://lphas.click:80/verasalto1/65432109/27510884.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Santa Catarina • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Santa Catarina • FHD
+http://lphas.click:80/verasalto1/65432109/27510883.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Santa Catarina • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Santa Catarina • HD
+http://lphas.click:80/verasalto1/65432109/27510882.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv São Paulo • FHD" tvg-logo="https://i.imgur.com/frO9Mgj.png" group-title="➡️ RECORD TV",Record Tv São Paulo • FHD
+http://lphas.click:80/verasalto1/65432109/27510880.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv São Paulo • HD" tvg-logo="https://i.imgur.com/frO9Mgj.png" group-title="➡️ RECORD TV",Record Tv São Paulo • HD
+http://lphas.click:80/verasalto1/65432109/27510879.ts
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record Tv São Paulo • SD" tvg-logo="https://i.imgur.com/frO9Mgj.png" group-title="➡️ RECORD TV",Record Tv São Paulo • SD
+http://lphas.click:80/verasalto1/65432109/27510878.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Sergipe - TV Atalaia • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Sergipe - TV Atalaia • HD
+http://lphas.click:80/verasalto1/65432109/27510877.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Vila Real • FHD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Vila Real • FHD
+http://lphas.click:80/verasalto1/65432109/27510876.ts
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record Tv Vila Real • HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",Record Tv Vila Real • HD
+http://lphas.click:80/verasalto1/65432109/27510875.ts
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Bahia • FHD
+http://lphas.click:80/verasalto1/65432109/27510798.ts
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band Bahia • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Bahia • HD
+http://lphas.click:80/verasalto1/65432109/27510797.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Brasília • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Brasília • HD
+http://lphas.click:80/verasalto1/65432109/27510796.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Campinas • FHD
+http://lphas.click:80/verasalto1/65432109/27510795.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Campinas • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Campinas • HD
+http://lphas.click:80/verasalto1/65432109/27510794.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Ceará • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Ceará • FHD
+http://lphas.click:80/verasalto1/65432109/27510793.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Ceará • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Ceará • HD
+http://lphas.click:80/verasalto1/65432109/27510792.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band CE • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band CE • FHD
+http://lphas.click:80/verasalto1/65432109/27510791.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band CE • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band CE • HD
+http://lphas.click:80/verasalto1/65432109/27510790.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band CE • SD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band CE • SD
+http://lphas.click:80/verasalto1/65432109/27510789.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band MG • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band MG • FHD
+http://lphas.click:80/verasalto1/65432109/27510788.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band MG • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band MG • HD
+http://lphas.click:80/verasalto1/65432109/27510787.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band MG" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band MG
+http://lphas.click:80/verasalto1/65432109/27510786.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Minas • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Minas • FHD
+http://lphas.click:80/verasalto1/65432109/27510785.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Minas • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Minas • HD
+http://lphas.click:80/verasalto1/65432109/27510784.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Pará" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Pará
+http://lphas.click:80/verasalto1/65432109/27510783.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Pernambuco • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Pernambuco • HD
+http://lphas.click:80/verasalto1/65432109/27510782.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Paraná • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Paraná • HD
+http://lphas.click:80/verasalto1/65432109/27510781.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Paraná • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Paraná • FHD
+http://lphas.click:80/verasalto1/65432109/27510780.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RJ • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band RJ • FHD
+http://lphas.click:80/verasalto1/65432109/27510779.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RJ • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band RJ • HD
+http://lphas.click:80/verasalto1/65432109/27510778.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RN • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band RN • HD
+http://lphas.click:80/verasalto1/65432109/27510777.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RS • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band RS • FHD
+http://lphas.click:80/verasalto1/65432109/27510776.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band RS • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band RS • HD
+http://lphas.click:80/verasalto1/65432109/27510775.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band SP • FHD
+http://lphas.click:80/verasalto1/65432109/27510774.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band SP • HD
+http://lphas.click:80/verasalto1/65432109/27510773.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SP • SD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band SP • SD
+http://lphas.click:80/verasalto1/65432109/27510772.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band
+http://lphas.click:80/verasalto1/65432109/27510771.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Sergipe • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Sergipe • HD
+http://lphas.click:80/verasalto1/65432109/27510770.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band Taubaté" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band Taubaté
+http://lphas.click:80/verasalto1/65432109/27510769.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band TV Goiânia • FHD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band TV Goiânia • FHD
+http://lphas.click:80/verasalto1/65432109/27510768.ts
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band TV Goiânia • HD" tvg-logo="https://i.imgur.com/hYE2UEI.png" group-title="➡️ BAND",Band TV Goiânia • HD
+http://lphas.click:80/verasalto1/65432109/27510767.ts
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="Cine Sky 1" tvg-logo="https://i.imgur.com/QqKhiAQ.png" group-title="➡️ CINE SKY",Cine Sky 1
+http://lphas.click:80/verasalto1/65432109/27510766.ts
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="Cine Sky 2" tvg-logo="https://i.imgur.com/QqKhiAQ.png" group-title="➡️ CINE SKY",Cine Sky 2
+http://lphas.click:80/verasalto1/65432109/27510765.ts
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="Cine Sky 3" tvg-logo="https://i.imgur.com/QqKhiAQ.png" group-title="➡️ CINE SKY",Cine Sky 3
+http://lphas.click:80/verasalto1/65432109/27510764.ts
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="Cine Sky 4" tvg-logo="https://i.imgur.com/QqKhiAQ.png" group-title="➡️ CINE SKY",Cine Sky 4
+http://lphas.click:80/verasalto1/65432109/27510763.ts
+#EXTINF:-1 tvg-id="24HFilmes" tvg-name="Cine Sky 5" tvg-logo="https://i.imgur.com/QqKhiAQ.png" group-title="➡️ CINE SKY",Cine Sky 5
+http://lphas.click:80/verasalto1/65432109/27510762.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Amazonas" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Amazonas
+http://lphas.click:80/verasalto1/65432109/27510751.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Bahia • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Bahia • FHD
+http://lphas.click:80/verasalto1/65432109/27510750.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Bahia Tv Aratu • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Bahia Tv Aratu • FHD
+http://lphas.click:80/verasalto1/65432109/27510749.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Bahia Tv Aratu • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Bahia Tv Aratu • HD
+http://lphas.click:80/verasalto1/65432109/27510748.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Bahia Tv Aratu • SD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Bahia Tv Aratu • SD
+http://lphas.click:80/verasalto1/65432109/27510747.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Belem • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Belem • FHD
+http://lphas.click:80/verasalto1/65432109/27510746.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Belem • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Belem • HD
+http://lphas.click:80/verasalto1/65432109/27510745.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Brasilia • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Brasilia • FHD
+http://lphas.click:80/verasalto1/65432109/27510744.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Brasília • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Brasília • HD
+http://lphas.click:80/verasalto1/65432109/27510743.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Ceara Tv Jangadeiro  • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Ceara Tv Jangadeiro  • FHD
+http://lphas.click:80/verasalto1/65432109/27510742.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Ceara Tv Jangadeiro • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Ceara Tv Jangadeiro • HD
+http://lphas.click:80/verasalto1/65432109/27510741.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Central • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Central • HD
+http://lphas.click:80/verasalto1/65432109/27510740.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Maranhao • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Maranhao • HD
+http://lphas.click:80/verasalto1/65432109/27510739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sbt MG - Tv Alterosa • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt MG - Tv Alterosa • FHD
+http://lphas.click:80/verasalto1/65432109/27510738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sbt MG - Tv Alterosa • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt MG - Tv Alterosa • HD
+http://lphas.click:80/verasalto1/65432109/27510737.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Nacional (São Paulo)" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Nacional (São Paulo)
+http://lphas.click:80/verasalto1/65432109/27510736.ts
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-name="Sbt Parana  • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Parana  • FHD
+http://lphas.click:80/verasalto1/65432109/27510735.ts
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-name="Sbt Parana • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Parana • HD
+http://lphas.click:80/verasalto1/65432109/27510734.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Pernambuco" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Pernambuco
+http://lphas.click:80/verasalto1/65432109/27510733.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Piaui • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Piaui • HD
+http://lphas.click:80/verasalto1/65432109/27510732.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Piaui• SD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Piaui• SD
+http://lphas.click:80/verasalto1/65432109/27510731.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Ribeirão Preto • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Ribeirão Preto • HD
+http://lphas.click:80/verasalto1/65432109/27510730.ts
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="Sbt Rj • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Rj • FHD
+http://lphas.click:80/verasalto1/65432109/27510729.ts
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="Sbt Rj • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Rj • HD
+http://lphas.click:80/verasalto1/65432109/27510728.ts
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="Sbt Rj • SD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Rj • SD
+http://lphas.click:80/verasalto1/65432109/27510727.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt RS • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt RS • FHD
+http://lphas.click:80/verasalto1/65432109/27510726.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt RS • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt RS • HD
+http://lphas.click:80/verasalto1/65432109/27510725.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt SC • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt SC • HD
+http://lphas.click:80/verasalto1/65432109/27510724.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Sergipe - Tv Aperiper • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Sergipe - Tv Aperiper • HD
+http://lphas.click:80/verasalto1/65432109/27510723.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Sp • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Sp • FHD
+http://lphas.click:80/verasalto1/65432109/27510722.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Sp • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Sp • HD
+http://lphas.click:80/verasalto1/65432109/27510721.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Sp • SD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Sp • SD
+http://lphas.click:80/verasalto1/65432109/27510720.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Tv Serra Dourada • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Tv Serra Dourada • FHD
+http://lphas.click:80/verasalto1/65432109/27510719.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt Tv Serra Dourada • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt Tv Serra Dourada • HD
+http://lphas.click:80/verasalto1/65432109/27510718.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt VTV Campinas  • FHD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt VTV Campinas  • FHD
+http://lphas.click:80/verasalto1/65432109/27510717.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt VTV Campinas • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt VTV Campinas • HD
+http://lphas.click:80/verasalto1/65432109/27510716.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="Sbt VTV • HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",Sbt VTV • HD
+http://lphas.click:80/verasalto1/65432109/27510715.ts
+#EXTINF:-1 tvg-id="" tvg-name="+sbt Novelas" tvg-logo="https://i.imgur.com/dA3imKl.png" group-title="➡️ SBT",+sbt Novelas
+http://lphas.click:80/verasalto1/65432109/27510714.ts
+#EXTINF:-1 tvg-id="MaisSBTRaiz" tvg-name="+sbt Raiz" tvg-logo="https://i.imgur.com/dA3imKl.png" group-title="➡️ SBT",+sbt Raiz
+http://lphas.click:80/verasalto1/65432109/27510713.ts
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="+sbt Kids" tvg-logo="https://i.imgur.com/dA3imKl.png" group-title="➡️ SBT",+sbt Kids
+http://lphas.click:80/verasalto1/65432109/27510712.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports • FHD" tvg-logo="https://i.imgur.com/KBzOPT6.png" group-title="⚽️ PPV • BAND SPORTS",Band Sports • FHD
+http://lphas.click:80/verasalto1/65432109/27510651.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports • HD" tvg-logo="https://i.imgur.com/KBzOPT6.png" group-title="⚽️ PPV • BAND SPORTS",Band Sports • HD
+http://lphas.click:80/verasalto1/65432109/27510650.ts
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports • SD" tvg-logo="https://i.imgur.com/KBzOPT6.png" group-title="⚽️ PPV • BAND SPORTS",Band Sports • SD
+http://lphas.click:80/verasalto1/65432109/27510649.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="DAZN 1• FHD" tvg-logo="https://i.imgur.com/P0tACHI.png" group-title="⚽ PPV • DAZN",DAZN 1• FHD
+http://lphas.click:80/verasalto1/65432109/27510383.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="DAZN 2• FHD" tvg-logo="https://i.imgur.com/P0tACHI.png" group-title="⚽ PPV • DAZN",DAZN 2• FHD
+http://lphas.click:80/verasalto1/65432109/27510380.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 1 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 1 • FHD
+http://lphas.click:80/verasalto1/65432109/27510367.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 1 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 1 • HD
+http://lphas.click:80/verasalto1/65432109/27510366.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 1 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 1 • SD
+http://lphas.click:80/verasalto1/65432109/27510365.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 2 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 2 • FHD
+http://lphas.click:80/verasalto1/65432109/27510364.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 2 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 2 • HD
+http://lphas.click:80/verasalto1/65432109/27510363.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 2 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 2 • SD
+http://lphas.click:80/verasalto1/65432109/27510362.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 3 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 3 • FHD
+http://lphas.click:80/verasalto1/65432109/27510361.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 3 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 3 • HD
+http://lphas.click:80/verasalto1/65432109/27510360.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 3 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 3 • SD
+http://lphas.click:80/verasalto1/65432109/27510359.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 4 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 4 • FHD
+http://lphas.click:80/verasalto1/65432109/27510358.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 4 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 4 • HD
+http://lphas.click:80/verasalto1/65432109/27510357.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 4 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 4 • SD
+http://lphas.click:80/verasalto1/65432109/27510356.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 5 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 5 • FHD
+http://lphas.click:80/verasalto1/65432109/27510355.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 5 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 5 • HD
+http://lphas.click:80/verasalto1/65432109/27510354.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 5 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 5 • SD
+http://lphas.click:80/verasalto1/65432109/27510353.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 6 • FHD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 6 • FHD
+http://lphas.click:80/verasalto1/65432109/27510352.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 6 • HD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 6 • HD
+http://lphas.click:80/verasalto1/65432109/27510351.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="HBO Max 6 • SD" tvg-logo="https://i.imgur.com/DDFWtIK.png" group-title="⚽️ PPV • HBO MAX",HBO Max 6 • SD
+http://lphas.click:80/verasalto1/65432109/27510350.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV • FHD" tvg-logo="https://i.imgur.com/q7rRmNi.png" group-title="➡️ F1 - FORMULA 1",F1 TV • FHD
+http://lphas.click:80/verasalto1/65432109/27509066.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV • HD" tvg-logo="https://i.imgur.com/q7rRmNi.png" group-title="➡️ F1 - FORMULA 1",F1 TV • HD
+http://lphas.click:80/verasalto1/65432109/27509065.ts
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV • SD" tvg-logo="https://i.imgur.com/q7rRmNi.png" group-title="➡️ F1 - FORMULA 1",F1 TV • SD
+http://lphas.click:80/verasalto1/65432109/27509064.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A CEO Secreta" tvg-logo="https://i.imgur.com/HJcbr85.png" group-title="➡️ REELSHORT",A CEO Secreta
+http://lphas.click:80/verasalto1/65432109/27507584.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Chefa Não Finge Mais" tvg-logo="https://i.imgur.com/QkNPIUT.png" group-title="➡️ REELSHORT",A Chefa Não Finge Mais
+http://lphas.click:80/verasalto1/65432109/27507583.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Dama Chefe da Traída a Amada" tvg-logo="https://i.imgur.com/M24KBLk.png" group-title="➡️ REELSHORT",A Dama Chefe da Traída a Amada
+http://lphas.click:80/verasalto1/65432109/27507582.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Doce Esposa Grávida Mimada pelo Marido Milionário" tvg-logo="https://i.imgur.com/6Pw484P.png" group-title="➡️ REELSHORT",A Doce Esposa Grávida Mimada pelo Marido Milionário
+http://lphas.click:80/verasalto1/65432109/27507581.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Esposa XXL do Prefeito Seu Retorno Incrível" tvg-logo="https://i.imgur.com/dTLybTd.png" group-title="➡️ REELSHORT",A Esposa XXL do Prefeito Seu Retorno Incrível
+http://lphas.click:80/verasalto1/65432109/27507580.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Herdeira Bilionária Divorciada" tvg-logo="https://i.imgur.com/u1FRrFT.png" group-title="➡️ REELSHORT",A Herdeira Bilionária Divorciada
+http://lphas.click:80/verasalto1/65432109/27507579.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Incrível Cecília" tvg-logo="https://i.imgur.com/GVj1fd2.png" group-title="➡️ REELSHORT",A Incrível Cecília
+http://lphas.click:80/verasalto1/65432109/27507578.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="A Vida Secreta do Meu Marido Milionário" tvg-logo="https://i.imgur.com/fgiU8LN.png" group-title="➡️ REELSHORT",A Vida Secreta do Meu Marido Milionário
+http://lphas.click:80/verasalto1/65432109/27507577.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Alma Gêmea Indesejada" tvg-logo="https://i.imgur.com/dRLZOTf.png" group-title="➡️ REELSHORT",Alma Gêmea Indesejada
+http://lphas.click:80/verasalto1/65432109/27507576.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Amantes Inimigos" tvg-logo="https://i.imgur.com/NQYnEMe.png" group-title="➡️ REELSHORT",Amantes Inimigos
+http://lphas.click:80/verasalto1/65432109/27507575.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Rumo à Ruina: Pagar as Suas Ações" tvg-logo="https://i.imgur.com/ls2KXaG.png" group-title="➡️ REELSHORT",Rumo à Ruina: Pagar as Suas Ações
+http://lphas.click:80/verasalto1/65432109/27507574.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Segredos da Orquídea" tvg-logo="https://i.imgur.com/KDx0VgZ.png" group-title="➡️ REELSHORT",Segredos da Orquídea
+http://lphas.click:80/verasalto1/65432109/27507573.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Seja Meu Obediente Sr. Oliveira" tvg-logo="https://i.imgur.com/ddjm345.png" group-title="➡️ REELSHORT",Seja Meu Obediente Sr. Oliveira
+http://lphas.click:80/verasalto1/65432109/27507572.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Sob a Luz das Flores Caídas" tvg-logo="https://i.imgur.com/ZSsEzSD.png" group-title="➡️ REELSHORT",Sob a Luz das Flores Caídas
+http://lphas.click:80/verasalto1/65432109/27507571.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Sou Nada Mais Que Um Mortal" tvg-logo="https://i.imgur.com/dDo9Ev9.png" group-title="➡️ REELSHORT",Sou Nada Mais Que Um Mortal
+http://lphas.click:80/verasalto1/65432109/27507570.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Substituta Acidental para o Alfa" tvg-logo="https://i.imgur.com/L58wRAe.png" group-title="➡️ REELSHORT",Substituta Acidental para o Alfa
+http://lphas.click:80/verasalto1/65432109/27507569.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Substituta Errada para o Bilionário Implacável" tvg-logo="https://i.imgur.com/0X1qLHe.png" group-title="➡️ REELSHORT",Substituta Errada para o Bilionário Implacável
+http://lphas.click:80/verasalto1/65432109/27507568.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Última Batida por Amor" tvg-logo="https://i.imgur.com/eoPdxmA.png" group-title="➡️ REELSHORT",Última Batida por Amor
+http://lphas.click:80/verasalto1/65432109/27507567.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Viciado Nela, a Querida Mimada do CEO" tvg-logo="https://i.imgur.com/JgBzJPV.png" group-title="➡️ REELSHORT",Viciado Nela, a Querida Mimada do CEO
+http://lphas.click:80/verasalto1/65432109/27507566.ts
+#EXTINF:-1 tvg-id="24HDoramas" tvg-name="Você Será Meu Amor Novamente" tvg-logo="https://i.imgur.com/Xn5BH64.png" group-title="➡️ REELSHORT",Você Será Meu Amor Novamente
+http://lphas.click:80/verasalto1/65432109/27507565.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="PRIME VIDEO • 01" tvg-logo="https://i.imgur.com/5N9qN24.png" group-title="⚽️ PPV • PRIME VIDEO",PRIME VIDEO • 01
+http://lphas.click:80/verasalto1/65432109/27507498.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="PRIME VIDEO • 02" tvg-logo="https://i.imgur.com/5N9qN24.png" group-title="⚽️ PPV • PRIME VIDEO",PRIME VIDEO • 02
+http://lphas.click:80/verasalto1/65432109/27507497.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="PRIME VIDEO • 03" tvg-logo="https://i.imgur.com/5N9qN24.png" group-title="⚽️ PPV • PRIME VIDEO",PRIME VIDEO • 03
+http://lphas.click:80/verasalto1/65432109/27507496.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="PRIME VIDEO • 04" tvg-logo="https://i.imgur.com/5N9qN24.png" group-title="⚽️ PPV • PRIME VIDEO",PRIME VIDEO • 04
+http://lphas.click:80/verasalto1/65432109/27507495.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Cazé Tv • 1" tvg-logo="https://i.imgur.com/VogBd8C.png" group-title="⚽ PPV • CAZÉ TV",Cazé Tv • 1
+http://lphas.click:80/verasalto1/65432109/27507489.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Cazé Tv • 2" tvg-logo="https://i.imgur.com/VogBd8C.png" group-title="⚽ PPV • CAZÉ TV",Cazé Tv • 2
+http://lphas.click:80/verasalto1/65432109/27507488.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Cazé Tv • 3" tvg-logo="https://i.imgur.com/VogBd8C.png" group-title="⚽ PPV • CAZÉ TV",Cazé Tv • 3
+http://lphas.click:80/verasalto1/65432109/27507487.ts
+#EXTINF:-1 tvg-id="EsportesPPV" tvg-name="Cazé Tv • 4" tvg-logo="https://i.imgur.com/VogBd8C.png" group-title="⚽ PPV • CAZÉ TV",Cazé Tv • 4
+http://lphas.click:80/verasalto1/65432109/27507486.ts
