@@ -4,8 +4,8 @@
 http://lphas.click:80/4199922241/awsedc1485/27530847.ts
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RECIFE HD" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ RECORD TV",RECORD RECIFE HD
 http://lphas.click:80/4199922241/awsedc1485/27530846.ts
-#EXTINF:-1 tvg-id="" tvg-name="NICKONLINE" tvg-logo="https://i.imgur.com/6bLoAO2.png" group-title="➡️ NICKONLINE",NICKONLINE
-http://x1co.com.br:8080/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKONLINE" tvg-logo="https://x1co.com.br/logo.png" group-title="➡️ NICKONLINE",NICKONLINE
+https://x1co.com.br:8443/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT LONDRINA HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT LONDRINA HD
 http://lphas.click:80/4199922241/awsedc1485/27530845.ts
 #EXTINF:-1 tvg-id="" tvg-name="SBT ALAGOAS HD" tvg-logo="https://i.imgur.com/esWXQP3.png" group-title="➡️ SBT",SBT ALAGOAS HD
