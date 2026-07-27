@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="https://docdog.top/logo/countries/brazil/ae.png" group-title="LAME | BRAZIL VIP",BR: A&E
+http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4829
 #EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="https://docdog.top/logo/countries/brazil/amc.png" group-title="LAME | BRAZIL VIP",BR: AMC
 http://31.43.191.125:8080/vip6671769357668/9c933f68998a/4830
 #EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/brazil/animalplanet.png" group-title="LAME | BRAZIL VIP",BR: ANIMAL PLANET
