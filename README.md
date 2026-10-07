@@ -20,7 +20,7 @@
 ##
 
  ### <i class="fa-brands fa-pix">
-⚠️ Atenção: <b>Todos os links de streams disponibilizados nas listas foram obtidos da internet. A comunidade apenas os organiza, disponibiliza e partilha. Não possuímos qualquer servidor, nem transmitimos ou reemitimos qualquer tipo de sinal.</b>. 
+⚠️ Atenção: <b>Todos os links de streams disponibilizados nas listas foram obtidos da internet. A comunidade apenas os organiza, disponibiliza e partilha. Não possuímos qualquer servidor, nem transmitimos ou reemitimos qualquer tipo de sinal</b>. 
 
 
 
