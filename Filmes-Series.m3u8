@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="FILMES | Lançamentos",Homem-Aranha: Um Novo Dia (2026)
+http://governosptx.org:80/movie/3llohwk4g9/kwf099q30o/2473847.mp4
+#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="FILMES | Lançamentos",Homem-Aranha: Um Novo Dia (2026)
+http://governosptx.org:80/movie/3llohwk4g9/kwf099q30o/2473847.mp4
 #EXTINF:-1 tvg-name="A Casa da Armadilha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1sUHYBO8heFYs0ni1bE8K3ioFq.jpg" group-title="FILMES | Lançamentos",A Casa da Armadilha
 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/124.mp4
 #EXTINF:-1 tvg-name="A Carta de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kU9HRH9WLoFc6GQNyYsNzkaVns2.jpg" group-title="FILMES | Lançamentos",A Carta de Natal
@@ -28,12 +32,6 @@ http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/168.mp4
 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/172.mp4
 #EXTINF:-1 tvg-name="A Garota Artificial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBgnaCR2SZ29SADKoRffxKBTguk.jpg" group-title="FILMES | Lançamentos",A Garota Artificial
 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/173.mp4
-#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="Filmes | Lancamentos",Homem-Aranha: Um Novo Dia
-http://tjtor8411.com:80/movie/Osiel123/Felicidade321/399611.mp4
-#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="Filmes | Ficcao",Homem-Aranha: Um Novo Dia
-http://tjtor8411.com:80/movie/Osiel123/Felicidade321/399611.mp4
-#EXTINF:-1 tvg-name="Homem-Aranha: Um Novo Dia [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg" group-title="Filmes | Legendados",Homem-Aranha: Um Novo Dia [L]
-http://tjtor8411.com:80/movie/Osiel123/Felicidade321/399610.mp4
 #EXTINF:-1 tvg-name="A Convidada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVb7aEM4W0jTHZjSV5iRlRToRCx.jpg" group-title="FILMES | Lançamentos",A Convidada
 http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/176.mp4
 #EXTINF:-1 tvg-name="A Estrela de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3pBKlZXOMLhtIpfxz0TYHLKCo7.jpg" group-title="FILMES | Lançamentos",A Estrela de Natal
